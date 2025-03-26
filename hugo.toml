@@ -1,0 +1,4 @@
+baseURL = 'https://isilab.utalca.cl'
+languageCode = 'en-us'
+title = 'LBS Website'
+theme = 'ananke'
