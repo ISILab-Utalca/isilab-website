@@ -1,7 +1,8 @@
 +++
-date = '2025-03-27T10:46:01-03:00'
+date = '2025-03-27T14:04:04-03:00'
 draft = true
-title = 'ISI LAB'
+title = 'ISI Lab'
+tags =  ["article"]
 +++
 
 # Interactive Software Intelligence Laboratory
