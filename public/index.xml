@@ -2,11 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ISILAB</title>
-    <link>https://isilab.utalca.cl/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on ISILAB</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://isilab.utalca.cl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 14:55:29 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semi Exhaustive Generation of Safari Rush Hour puzzles</title>
+      <link>http://localhost:1313/projects/semi-exaustive/</link>
+      <pubDate>Thu, 27 Mar 2025 14:55:29 -0300</pubDate>
+      <guid>http://localhost:1313/projects/semi-exaustive/</guid>
+      <description>&lt;h2 id=&#34;the-method&#34;&gt;The method&lt;/h2&gt;
+&lt;p&gt;The growing need for large amounts of game content has spawned numerous ways of automating the process. Puzzle games are no exception, as they are a prime example of a genre that can be used to generate large amounts of content and test various methods of doing so. This genre can include standalone games or gameplay enchancers that are present in other genres. This spawns a large variety of puzzle types which makes them a great target for generation of interesting content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design Approach</title>
+      <link>http://localhost:1313/posts/post-3-desing/</link>
+      <pubDate>Thu, 27 Mar 2025 14:45:34 -0300</pubDate>
+      <guid>http://localhost:1313/posts/post-3-desing/</guid>
+      <description>&lt;p&gt;We are working in a new workflow involving design!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/concept-01.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LBS Notification System</title>
+      <link>http://localhost:1313/documentation/api/notification/</link>
+      <pubDate>Thu, 27 Mar 2025 14:23:54 -0300</pubDate>
+      <guid>http://localhost:1313/documentation/api/notification/</guid>
+      <description>&lt;h3 id=&#34;method&#34;&gt;Method:&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c#&#34; data-lang=&#34;c#&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; MessageNotify(&lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt; message, LogType logType = LogType.Log, &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; duration = &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To display notifications in the tool use the LBSMainWindow&amp;rsquo;s MessageNotify static function:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Message:&lt;/strong&gt; &lt;code&gt;String&lt;/code&gt; Text that&amp;rsquo;ll be shown on screen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LogType:&lt;/strong&gt; &lt;code&gt;enum Logtype,Log&lt;/code&gt; The type of message, it affects the icon displayed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; &lt;code&gt;int&lt;/code&gt; The duration in seconds of the message before it fades out and it&amp;rsquo;s deleted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example:&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c#&#34; data-lang=&#34;c#&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;LBSMainWindow.instance.MessageNotify(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;[ISI Lab] Warning: You don&amp;#39;t have any layer selected.&amp;#34;&lt;/span&gt;, LogType.Warning, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;notification result&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/user-attachments/assets/a6d5c9eb-411c-49b1-ac25-4374b981d536&#34; title=&#34;A sample notification&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ISI Lab</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Thu, 27 Mar 2025 14:04:04 -0300</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;h1 id=&#34;interactive-software-intelligence-laboratory&#34;&gt;Interactive Software Intelligence Laboratory&lt;/h1&gt;
+&lt;p&gt;El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Character Brain Booster</title>
+      <link>http://localhost:1313/projects/cbb/</link>
+      <pubDate>Thu, 27 Mar 2025 10:46:01 -0300</pubDate>
+      <guid>http://localhost:1313/projects/cbb/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;CBB&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/CBB_conceptual_2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We are starting the collaborative development of an Enemy Personality Configurator tool for video game designers and developers to assist them in defining and configuring the behavior of enemies and participants who interact with the leading actor (the player) in a video game. The tool, codenamed Character Brain Booster (CBB), will allow video game developers and designers to define and configure features of enemies and participants that interact with the leading actor during the video game design and testing phases as a debugging tool. Although existing video game engines offer tools for that purpose, they only work in the design stage; video game developers cannot update enemy features in online testing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Level Building Sidekick</title>
+      <link>http://localhost:1313/projects/starting-post/</link>
+      <pubDate>Wed, 26 Mar 2025 16:29:06 -0300</pubDate>
+      <guid>http://localhost:1313/projects/starting-post/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;LBS Editor&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/lbs_01.png&#34; title=&#34;Map Generated Using LBS&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;level-building-sidekick-2025&#34;&gt;Level Building Sidekick 2025&lt;/h1&gt;
+&lt;p&gt;LBS is an extension designed for &lt;a href=&#34;https://unity.com&#34;&gt;Unity Engine&lt;/a&gt;, which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features &lt;strong&gt;artificial intelligence assistants&lt;/strong&gt; in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Level Building Sidekick (LBS) is a tool that allows software developers to define the architecture, constraints, graphical elements, and decorative details that will be used in the construction of a level for video games and other areas. This process enables increased team productivity and the quality and diversity of content they can offer to their users. The tool allows artists to upload any assets they have created for their projects, enabling them to compose custom asset sets for different genres, sections, or styles. LBS is a mixed-initiative content generation tool focused on creating content such as levels, population, and missions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
