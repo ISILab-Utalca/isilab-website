@@ -1,7 +1,8 @@
 baseURL = 'https://isilab.utalca.cl/'
 languageCode = 'en-us'
 title = 'ISILAB'
-theme = "mostafa-hugo-theme"
+#theme = "mostafa-hugo-theme"
+theme = 'PaperMod'
 
 [taxonomies]
   genre = 'genres'

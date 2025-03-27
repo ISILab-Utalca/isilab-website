@@ -1,16 +1,16 @@
 +++
 date = '2025-03-26T16:29:06-03:00'
 draft = true
-title = 'LBS'
+title = 'Level Building Sidekick'
 author = 'Nicolas Barriga'
 +++
 
 ![LBS Editor](/images/lbs_01.png "Map Generated Using LBS")
 
 
-# {{ .Title }}
+# Level Building Sidekick 2025
 
-LBS is an extension designed for Unity Engine, which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features artificial intelligence assistants in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.
+LBS is an extension designed for [Unity Engine](https://unity.com), which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features **artificial intelligence assistants** in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Download the asset package: To start the installation, it is required to downloa
 Additional dependencies: It is important to note that this tool has dependencies with Newtonsoft Json. If this is not installed previously, the project may present multiple errors. To solve this, make sure to install it from Unity's Package Manager.
 
 ## Usage
-To start working, select the ISILab window in Window>ISILab>LevelBuildingSidekick, this will open the main window of the tool with which you can start working. Next, we will provide a series of general descriptions that you can follow to manage the tool:
+To start working, select the ISILab window in **Window>ISILab>LevelBuildingSidekick**, this will open the main window of the tool with which you can start working. Next, we will provide a series of general descriptions that you can follow to manage the tool:
 
 In the main window, you will find a large working area visualized with a tiling of squares, in this area you can place, move, and remove elements to shape your levels. To the right of this, you will find an internal inspector that will allow you to work with the specific values of the elements to be modified, their base behaviors, and the assistants that will help you work with this tool.
 
@@ -39,7 +39,7 @@ In addition to this, we can find in the vertical bar between these two aforement
 For detailed information on the different layers that can be created, how the assistants work, and how to interact with the tool more specifically, it is recommended to review the "user manual" available in this same repository.
 
 ## License
-The license for this project is available in the LICENSE file in this repository. For more details on the license terms and conditions, please see here.
+>The license for this project is available in the LICENSE file in this repository. For more details on the license terms and conditions, please see here.
 
 ## Other Projects
 Thank you for reviewing this project! To discover more interesting projects, we invite you to visit our website [ISILab.cl](https://isilab.utalca.cl) and explore everything we have to offer.
