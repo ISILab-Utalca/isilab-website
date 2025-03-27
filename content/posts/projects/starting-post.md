@@ -1,17 +1,14 @@
 +++
 date = '2025-03-26T16:29:06-03:00'
 draft = true
-title = 'Starting Post'
+title = 'LBS'
 author = 'Nicolas Barriga'
-
 +++
 
+![LBS Editor](/images/lbs_01.png "Map Generated Using LBS")
 
-{{ with .Resources.GetMatch "lbs_01.png" }}
-  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{ end }}
 
-# Level Building Sidekick 2024 
+# {{ .Title }}
 
 LBS is an extension designed for Unity Engine, which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features artificial intelligence assistants in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.
 
@@ -45,4 +42,4 @@ For detailed information on the different layers that can be created, how the as
 The license for this project is available in the LICENSE file in this repository. For more details on the license terms and conditions, please see here.
 
 ## Other Projects
-Thank you for reviewing this project! To discover more interesting projects, we invite you to visit our website ISILab.cl and explore everything we have to offer.
+Thank you for reviewing this project! To discover more interesting projects, we invite you to visit our website [ISILab.cl](https://isilab.utalca.cl) and explore everything we have to offer.

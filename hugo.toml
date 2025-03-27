@@ -1,5 +1,9 @@
-baseURL = 'https://isilab.utalca.cl'
+baseURL = 'https://isilab.utalca.cl/'
 languageCode = 'en-us'
 title = 'ISILAB'
 theme = "mostafa-hugo-theme"
 
+[taxonomies]
+  genre = 'genres'
+  tag = 'tags'
+  category = 'categories'
