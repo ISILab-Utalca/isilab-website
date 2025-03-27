@@ -3,6 +3,7 @@ date = '2025-03-26T16:29:06-03:00'
 draft = true
 title = 'Level Building Sidekick'
 author = 'Nicolas Barriga'
+tags =  ["Projects"]
 +++
 
 ![LBS Editor](/images/lbs_01.png "Map Generated Using LBS")
