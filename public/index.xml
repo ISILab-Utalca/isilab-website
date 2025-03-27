@@ -5,27 +5,48 @@
     <description>Recent content on ISILAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 16:29:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 10:46:01 -0300</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Starting Post</title>
-      <link>http://localhost:1313/posts/starting-post/</link>
+      <title>CBB</title>
+      <link>http://localhost:1313/posts/projects/cbb/</link>
+      <pubDate>Thu, 27 Mar 2025 10:46:01 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/cbb/</guid>
+      <description>&lt;h1 id=&#34;character-brain-booster-tool&#34;&gt;Character Brain Booster Tool&lt;/h1&gt;
+&lt;p&gt;We are starting the collaborative development of an Enemy Personality Configurator tool for video game designers and developers to assist them in defining and configuring the behavior of enemies and participants who interact with the leading actor (the player) in a video game. The tool, codenamed Character Brain Booster (CBB), will allow video game developers and designers to define and configure features of enemies and participants that interact with the leading actor during the video game design and testing phases as a debugging tool. Although existing video game engines offer tools for that purpose, they only work in the design stage; video game developers cannot update enemy features in online testing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISI LAB</title>
+      <link>http://localhost:1313/posts/articles/article-1/</link>
+      <pubDate>Thu, 27 Mar 2025 10:46:01 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/article-1/</guid>
+      <description>&lt;h1 id=&#34;interactive-software-intelligence-laboratory&#34;&gt;Interactive Software Intelligence Laboratory&lt;/h1&gt;
+&lt;p&gt;El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LBS</title>
+      <link>http://localhost:1313/posts/projects/starting-post/</link>
       <pubDate>Wed, 26 Mar 2025 16:29:06 -0300</pubDate>
       
-      <guid>http://localhost:1313/posts/starting-post/</guid>
+      <guid>http://localhost:1313/posts/projects/starting-post/</guid>
       <description>&lt;p&gt;
-&lt;a href=&#34;http://localhost:1313/assets/screenshots/lbs_01.png&#34; data-dimbox data-dimbox-caption=&#34;alt text&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/assets/screenshots/lbs_01.png&#34; alt=&#34;alt text&#34; /&gt;
-&lt;/a&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;http://localhost:1313/images/lbs_01.png&#34; data-dimbox data-dimbox-caption=&#34;LBS Editor&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/lbs_01.png&#34; alt=&#34;LBS Editor&#34; /&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;Map Generated Using LBS&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;/p&gt;
-&lt;h1 id=&#34;level-building-sidekick&#34;&gt;Level Building Sidekick&lt;/h1&gt;
-&lt;p&gt;LBS is an extension designed for Unity Engine, which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features artificial intelligence assistants in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Level Building Sidekick (LBS) is a tool that allows software developers to define the architecture, constraints, graphical elements, and decorative details that will be used in the construction of a level for video games and other areas. This process enables increased team productivity and the quality and diversity of content they can offer to their users. The tool allows artists to upload any assets they have created for their projects, enabling them to compose custom asset sets for different genres, sections, or styles. LBS is a mixed-initiative content generation tool focused on creating content such as levels, population, and missions.&lt;/p&gt;</description>
+&lt;h1 id=&#34;-title-&#34;&gt;{{ .Title }}&lt;/h1&gt;
+&lt;p&gt;LBS is an extension designed for Unity Engine, which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features artificial intelligence assistants in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.&lt;/p&gt;</description>
     </item>
     
   </channel>
