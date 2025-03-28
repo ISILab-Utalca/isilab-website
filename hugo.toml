@@ -1,6 +1,7 @@
 baseURL = 'https://isilab.utalca.cl/'
 languageCode = 'en-us'
 title = 'ISILAB'
+subtitle = 'UTAL'
 #theme = "mostafa-hugo-theme"
 theme = 'PaperMod'
 
@@ -22,5 +23,8 @@ theme = 'PaperMod'
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
+    hideFooter = false
+
 [Permalinks]
     post = "/:filename/"
+    

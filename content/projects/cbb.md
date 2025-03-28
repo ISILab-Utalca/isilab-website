@@ -1,5 +1,5 @@
 +++
-date = '2025-03-27T10:46:01-03:00'
+date = '2025-03-21T10:46:01-03:00'
 draft = true
 title = 'Character Brain Booster'
 tags =  ["Projects"]
