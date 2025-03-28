@@ -4,6 +4,8 @@ draft = true
 title = 'Level Building Sidekick'
 author = 'Nicolas Barriga'
 tags =  ["Projects"]
+showtoc = true
+tocopen = true
 +++
 
 ![LBS Editor](/images/lbs_01.png "Map Generated Using LBS")

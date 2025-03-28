@@ -1,8 +1,9 @@
 +++
 date = '2025-03-23T14:45:34-03:00'
 draft = true
-title = 'Design Approach'
-tags =  ["Article"]
+title = 'Design Progress March 2025'
+tags =  ["Post", "Article"]
+author = "Nicolas Acevedo Suzarte"
 +++
 
 

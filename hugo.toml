@@ -2,7 +2,6 @@ baseURL = 'https://isilab.utalca.cl/'
 languageCode = 'en-us'
 title = 'ISILAB'
 subtitle = 'UTAL'
-#theme = "mostafa-hugo-theme"
 theme = 'PaperMod'
 
 [taxonomies]
@@ -11,20 +10,58 @@ theme = 'PaperMod'
   category = 'categories'
 
 
-  [Params]
+[params]
     mainSections = ["posts", "projects"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    headline = "Interactive Software Intelligence Laboratorye"
+    description = "Laboratorio de software interactivo inteligente de la universidad de Talca."
+    github = "https://github.com/ISILab-Utalca"
+    twitter = "x.com/idvrv"
+    email = "nbarriga@utalca.cl"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
-
     hideFooter = false
 
-[Permalinks]
-    post = "/:filename/"
-    
+    ShowReadingTime = true
+    #ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon16x16.png"
+    favicon32x32 = "/favicon32x32.png"
+    apple_touch_icon = "/static/apple-touch-icon.png"
+
+
+[params.homeInfoParams]
+logo = "../assets/images/isilab_box_logo_1x.png"
+title = "Interactive Software Intelligence Laboratory"
+content = "Laboratorio de software interactivo inteligente de la universidad de Talca."
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Articles"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 15
+
+  [[menu.main]]
+    identifier = "documentation"
+    name = "Docs"
+    url = "/documentation/"
+    weight = 25
+
+  [[menu.main]]
+    identifier = "example"
+    name = "Utalca"
+    url = "https://admision.utalca.cl/carreras/ingenieria-en-desarrollo-de-videojuegos-y-realidad-virtual/"
+    weight = 30
+  

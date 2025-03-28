@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ISILAB</title>
+    <title>Interactive Software Intelligence Laboratory 🧪 on ISILAB</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on ISILAB</description>
+    <description>Recent content in Interactive Software Intelligence Laboratory 🧪 on ISILAB</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Mar 2025 14:23:54 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISI Lab</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Fri, 21 Mar 2025 14:04:04 -0300</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;h1 id=&#34;interactive-software-intelligence-laboratory&#34;&gt;Interactive Software Intelligence Laboratory&lt;/h1&gt;
+&lt;p&gt;El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LBS Notification System</title>
       <link>http://localhost:1313/documentation/api/notification/</link>
@@ -47,7 +55,7 @@
 &lt;p&gt;The growing need for large amounts of game content has spawned numerous ways of automating the process. Puzzle games are no exception, as they are a prime example of a genre that can be used to generate large amounts of content and test various methods of doing so. This genre can include standalone games or gameplay enchancers that are present in other genres. This spawns a large variety of puzzle types which makes them a great target for generation of interesting content.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Design Approach</title>
+      <title>Design Progress March 2025</title>
       <link>http://localhost:1313/posts/post-3-desing/</link>
       <pubDate>Sun, 23 Mar 2025 14:45:34 -0300</pubDate>
       <guid>http://localhost:1313/posts/post-3-desing/</guid>

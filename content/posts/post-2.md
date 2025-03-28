@@ -1,10 +1,11 @@
 +++
-date = '2025-03-28T14:04:04-03:00'
+date = '2025-03-21T14:04:04-03:00'
 draft = true
 title = 'ISI Lab'
-tags =  ["Article"]
-sectionPagesMenu = 'main'
+tags =  ["Post", "Article"]
+weight = 120
 +++
+
 
 # Interactive Software Intelligence Laboratory
 
