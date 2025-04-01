@@ -4,6 +4,11 @@ title = 'ISILAB'
 subtitle = 'UTAL'
 theme = 'PaperMod'
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
+
 [taxonomies]
   genre = 'genres'
   tag = 'tags'
@@ -51,17 +56,29 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 15
+    weight = 20
 
   [[menu.main]]
     identifier = "documentation"
     name = "Docs"
     url = "/documentation/"
-    weight = 25
+    weight = 30
 
   [[menu.main]]
-    identifier = "example"
+    identifier = "about_us"
+    name = "About Us"
+    url = "/misc/about"
+    weight = 35
+
+  [[menu.main]]
+    identifier = "utal"
     name = "Utalca"
     url = "https://admision.utalca.cl/carreras/ingenieria-en-desarrollo-de-videojuegos-y-realidad-virtual/"
-    weight = 30
+    weight = 100
+  
+ [[menu.main]]
+    identifier = "tesis"
+    name = "Tesis"
+    url = "/tesis/"
+    weight = 40
   

@@ -1,0 +1,71 @@
++++
+date = '2025-04-01T14:46:53-03:00'
+draft = true
+title = 'About Us'
++++
+
+---
+
+## Researchers
+
+**Dr. Nicolas Barriga**
+
+> Director | Researcher
+
+> **Projects:** Level Building Sidekick | Character Brain Booster | Semi-exhaustive puzzle generation.
+
+**Camila Aliaga** 
+> Researcher | UX and Usability researcher
+
+> **Projects:** Character Brain Booster
+
+**Sven Von Brand** 
+> Researcher | Industry Liaison
+
+>**Projects:** Level Building Sidekick | Character Brain Booster 
+
+**Cristian Vidal**
+> Alternate Director | Software Engineering research
+
+>**Projects:** Level Building Sidekick | Character Brain Booster 
+
+---
+
+## Engineers
+
+**Jose Del Solar** | Professional | Research Engineer
+> **Projects:** Semi-exhaustive puzzle generation
+
+**Alice Diaz** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick 
+
+**Joaquin Herrera** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick 
+
+**Nicolas Romero** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick | Character Brain Booster
+
+**Gabriel Sepulveda** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick
+
+**Fernanda Gonzalez** | Professional | UI and UX Design
+> **Projects:** Level Building Sidekick | Character Brain Booster
+
+**Nicolas Acevedo** | Professional | UI and UX Design
+
+> **Projects:** Level Building Sidekick 
+
+**Diego Norambuena** | Professional | Software Engineering, AI and programming
+> **Projects:** Character Brain Booster
+
+---
+
+## Students
+
+**Sasha Bravo** | Student | Undergraduate Thesis
+> Level Building Sidekick
+
+**Sergio Ferrada** | Student | Undergraduate Thesis
+> Level Building Sidekick
+
+---
