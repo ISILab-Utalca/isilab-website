@@ -92,11 +92,3 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
     name = 'production'
     url = 'https://isilab-utalca.github.io/isilab-website/'
 
-
-[caches]
-  [caches.assets]
-    dir = ':resourceDir/_gen'
-    maxAge = -1
-  [caches.images]
-    dir = ':resourceDir/_gen'
-    maxAge = -1
