@@ -1,4 +1,4 @@
-baseURL = 'https://isilab.utalca.cl/'
+baseURL = 'https://isilab-utalca.github.io/isilab-website/'
 languageCode = 'en-us'
 title = 'ISILAB'
 subtitle = 'UTAL'
@@ -8,7 +8,7 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = false
 disableLanguages = []
-canonifyURLs = true
+
 
 [taxonomies]
   genre = 'genres'
@@ -42,7 +42,7 @@ canonifyURLs = true
 
 
 [params.homeInfoParams]
-logo = "../assets/images/isilab_box_logo_1x.png"
+#logo = "../assets/images/isilab_box_logo_1x.png"
 title = "Interactive Software Intelligence Laboratory"
 content = "Laboratorio de software interactivo inteligente de la universidad de Talca."
 
@@ -91,3 +91,27 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
   [[deployment.targets]]
     name = 'production'
     url = 'https://isilab-utalca.github.io/isilab-website/'
+
+
+[caches]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.getcsv]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.getresource]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.images]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+  [caches.misc]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxAge = -1
