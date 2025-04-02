@@ -7,17 +7,14 @@
 <article class="first-entry home-info">
 
     <header class="entry-header">
-
-
         <img class = "lbs-logo" src="/images/isilab_logo_vector.svg" alt="Logo">
-
-
 
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
+    <button class="read-button">Read  More!</button>
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
@@ -52,6 +49,14 @@
     .lbs-logo > path {
         fill: black;
     }
+    .read-button{
+        color: var(--primary);
+        background-color: var(--darkest);
+        border: 1px solid var(--primary);
+        border-radius: 24px;
+        padding: 4px 16px;
+    }
+
 
 </style>
 

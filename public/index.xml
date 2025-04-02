@@ -9,19 +9,12 @@
     <lastBuildDate>Tue, 01 Apr 2025 14:46:53 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ISI Lab</title>
-      <link>http://localhost:1313/posts/post-2/</link>
-      <pubDate>Fri, 21 Mar 2025 14:04:04 -0300</pubDate>
-      <guid>http://localhost:1313/posts/post-2/</guid>
-      <description>&lt;h1 id=&#34;interactive-software-intelligence-laboratory&#34;&gt;Interactive Software Intelligence Laboratory&lt;/h1&gt;
-&lt;p&gt;El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Us</title>
       <link>http://localhost:1313/misc/about/</link>
       <pubDate>Tue, 01 Apr 2025 14:46:53 -0300</pubDate>
       <guid>http://localhost:1313/misc/about/</guid>
-      <description>&lt;hr&gt;
+      <description>&lt;p&gt;El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;researchers&#34;&gt;Researchers&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Dr. Nicolas Barriga&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -35,17 +28,7 @@
 &lt;p&gt;&lt;strong&gt;Projects:&lt;/strong&gt; Character Brain Booster&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Sven Von Brand&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Researcher | Industry Liaison&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Projects:&lt;/strong&gt; Level Building Sidekick | Character Brain Booster&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Cristian Vidal&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Alternate Director | Software Engineering research&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Projects:&lt;/strong&gt; Level Building Sidekick | Character Brain Booster&lt;/p&gt;&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;engineers&#34;&gt;Engineers&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Jose Del Solar&lt;/strong&gt; | Professional | Research Engineer&lt;/p&gt;</description>
+&lt;p&gt;Researcher | Industry Liaison&lt;/p&gt;</description>
     </item>
     <item>
       <title>LBS - Installation</title>
@@ -62,7 +45,7 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus posuere mi, id tincidunt lorem ornare a. Nullam nec diam ante. Fusce lectus risus, feugiat sit amet arcu at, suscipit congue massa. Aliquam vitae lorem vel elit tempor imperdiet vel non eros. Sed in lectus sem. Aenean non ligula sagittis, mollis urna vitae, elementum justo. Curabitur ac nulla consectetur, congue augue a, pellentesque erat. Nullam pharetra dui feugiat egestas dictum. Nam at consectetur mi, at commodo lorem. Vivamus blandit ex a mauris convallis, a ullamcorper ex facilisis. Nulla sit amet eros nulla. Quisque feugiat, mi ut egestas pharetra, quam tortor maximus odio, eget varius massa ipsum non lacus. Sed at vestibulum nunc, quis pharetra purus.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>LBS Notification System</title>
+      <title>[LBS API] -  Notification System</title>
       <link>http://localhost:1313/documentation/api/notification/</link>
       <pubDate>Thu, 27 Mar 2025 14:23:54 -0300</pubDate>
       <guid>http://localhost:1313/documentation/api/notification/</guid>
@@ -90,15 +73,6 @@
 &lt;p&gt;LBS is an extension designed for &lt;a href=&#34;https://unity.com&#34;&gt;Unity Engine&lt;/a&gt;, which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features &lt;strong&gt;artificial intelligence assistants&lt;/strong&gt; in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Level Building Sidekick (LBS) is a tool that allows software developers to define the architecture, constraints, graphical elements, and decorative details that will be used in the construction of a level for video games and other areas. This process enables increased team productivity and the quality and diversity of content they can offer to their users. The tool allows artists to upload any assets they have created for their projects, enabling them to compose custom asset sets for different genres, sections, or styles. LBS is a mixed-initiative content generation tool focused on creating content such as levels, population, and missions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Level Building Sidekick</title>
-      <link>http://localhost:1313/projects/lbs.es/</link>
-      <pubDate>Wed, 26 Mar 2025 16:29:06 -0300</pubDate>
-      <guid>http://localhost:1313/projects/lbs.es/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;LBS Editor&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/lbs_01.png&#34; title=&#34;Map Generated Using LBS&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;level-building-sidekick-2025&#34;&gt;Level Building Sidekick 2025&lt;/h1&gt;
-&lt;p&gt;LBS es una extensión diseñada para &lt;a href=&#34;https://unity.com&#34;&gt;Unity Engine&lt;/a&gt;, que facilita a los desarrolladores la creación de entornos para sus videojuegos, contribuyendo así a una mayor productividad. Esta extensión cuenta con &lt;strong&gt;asistentes de inteligencia artificial&lt;/strong&gt; en diversas áreas, que sugieren modificaciones basadas en las características fundamentales desarrolladas por el usuario. Estas sugerencias permiten a los desarrolladores explorar nuevas posibilidades sin necesidad de crear manualmente estas variaciones, fomentando una mayor libertad creativa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Semi Exhaustive Generation of Safari Rush Hour puzzles</title>
