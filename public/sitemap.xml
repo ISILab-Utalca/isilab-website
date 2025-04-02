@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://isilab.utalca.cl/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-01T14:46:53-03:00</lastmod>
   </url><url>
-    <loc>https://isilab.utalca.cl/misc/</loc>
+    <loc>http://localhost:1313/misc/</loc>
     <lastmod>2025-04-01T14:46:53-03:00</lastmod>
   </url><url>
-    <loc>https://isilab.utalca.cl/documentation/</loc>
+    <loc>http://localhost:1313/documentation/</loc>
     <lastmod>2025-04-01T09:51:20-03:00</lastmod>
   </url><url>
-    <loc>https://isilab.utalca.cl/tesis/</loc>
+    <loc>http://localhost:1313/tesis/</loc>
     <lastmod>2025-03-31T12:20:20-03:00</lastmod>
   </url><url>
-    <loc>https://isilab.utalca.cl/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-03-26T16:29:06-03:00</lastmod>
   </url><url>
-    <loc>https://isilab.utalca.cl/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-23T14:45:34-03:00</lastmod>
   </url><url>
-    <loc>https://isilab.utalca.cl/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://isilab.utalca.cl/genres/</loc>
+    <loc>http://localhost:1313/genres/</loc>
   </url><url>
-    <loc>https://isilab.utalca.cl/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://isilab.utalca.cl/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
