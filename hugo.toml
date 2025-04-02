@@ -8,6 +8,7 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = false
 disableLanguages = []
+canonifyURLs = true
 
 [taxonomies]
   genre = 'genres'
@@ -78,11 +79,11 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
     url = "https://admision.utalca.cl/carreras/ingenieria-en-desarrollo-de-videojuegos-y-realidad-virtual/"
     weight = 100
   
- [[menu.main]]
-    identifier = "tesis"
-    name = "Tesis"
-    url = "/tesis/"
-    weight = 40
+#  [[menu.main]]
+#     identifier = "tesis"
+#     name = "Tesis"
+#     url = "/tesis/"
+#     weight = 40
   
 
 

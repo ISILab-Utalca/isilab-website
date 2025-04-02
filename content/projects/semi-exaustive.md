@@ -1,6 +1,6 @@
 +++
 date = '2025-03-26T14:55:29-03:00'
-draft = true
+draft = false
 title = 'Semi Exhaustive Generation of Safari Rush Hour puzzles'
 tags =  ["Projects"]
 
