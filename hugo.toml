@@ -84,3 +84,9 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
     url = "/tesis/"
     weight = 40
   
+
+
+[deployment]
+  [[deployment.targets]]
+    name = 'production'
+    url = 'https://isilab-utalca.github.io/isilab-website/'

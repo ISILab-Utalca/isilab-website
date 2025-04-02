@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Article on ISILAB</title>
+    <link>http://localhost:1313/tags/article/</link>
+    <description>Recent content in Article on ISILAB</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Mar 2025 14:45:34 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISI Lab</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Fri, 21 Mar 2025 14:04:04 -0300</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;h1 id=&#34;interactive-software-intelligence-laboratory&#34;&gt;Interactive Software Intelligence Laboratory&lt;/h1&gt;
+&lt;p&gt;El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design Progress March 2025</title>
+      <link>http://localhost:1313/posts/post-3-desing/</link>
+      <pubDate>Sun, 23 Mar 2025 14:45:34 -0300</pubDate>
+      <guid>http://localhost:1313/posts/post-3-desing/</guid>
+      <description>&lt;p&gt;We are working in a new workflow involving design!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/concept-01.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
