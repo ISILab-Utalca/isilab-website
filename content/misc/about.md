@@ -4,8 +4,7 @@ draft = true
 title = 'About Us'
 +++
 
-
-El Laboratorio de software interactivo inteligente de la universidad de Talca, es parte de la escuela de Ingeniería en Desarrollo de Videojuegos y Relidad Virtual, Campus Lircay, Talca.
+The Intelligent Interactive Software Laboratory of the University of Talca is part of the School of Engineering in Video Game Development and Virtual Reality, Campus Lircay, Talca.
 
 
 ---

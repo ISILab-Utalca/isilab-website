@@ -14,7 +14,7 @@
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
-    <button class="read-button">Read  More!</button>
+    <button class="read-button" href="/misc/about/" link="/misc/about/" >Read More!</button>
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
