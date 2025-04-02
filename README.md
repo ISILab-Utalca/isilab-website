@@ -1,0 +1,1 @@
+[![Deploy Hugo site to Pages](https://github.com/ISILab-Utalca/isilab-website/actions/workflows/hugo.yml/badge.svg?branch=master)](https://github.com/ISILab-Utalca/isilab-website/actions/workflows/hugo.yml)
