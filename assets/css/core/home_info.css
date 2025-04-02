@@ -1,0 +1,15 @@
+
+.home-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-image: var(--home-info-tile);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain;
+    border-width: 1px;
+    border-style: solid;
+}
