@@ -1,15 +1,18 @@
 {{- with site.Params.homeInfoParams }}
 {{ $logo := .resources.GetMatch site.Params.homeInfoParam.logo }}
 
+
+
+
 <article class="first-entry home-info">
 
     <header class="entry-header">
-        {{ with $logo }}
-        <img src="{{ $logo.RelPermalink }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}">
-        {{end}}
 
-        <img class = "lbs-logo" src="/images/isilab_logo_vector.svg" alt="Logo" 
-        >
+
+        <img class = "lbs-logo" src="/images/isilab_logo_vector.svg" alt="Logo">
+
+
+
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="entry-content">
@@ -37,12 +40,17 @@
     }
     .lbs-logo {
         width: 12vw;
-        fill: var(--primary);
+        /*  fill: var(--primary);  */
         max-width: 100px;
         height: auto;
         margin: 0 auto;
         padding: 16px 0;
-        display: block
+        display: block;
+        fill: red;
+    }
+
+    .lbs-logo > path {
+        fill: black;
     }
 
 </style>
