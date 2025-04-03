@@ -5,7 +5,6 @@ title = 'Semi Exhaustive Generation of Safari Rush Hour puzzles'
 tags =  ["Projects"]
 +++
 
-
 ## The method
 The growing need for large amounts of game content has spawned numerous ways of automating the process. Puzzle games are no exception, as they are a prime example of a genre that can be used to generate large amounts of content and test various methods of doing so. This genre can include standalone games or gameplay enhancers that are present in other genres. This spawns a large variety of puzzle types which makes them a great target for generation of interesting content. 
 
