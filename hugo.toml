@@ -38,7 +38,7 @@ disableLanguages = []
     favicon = "/favicon.ico"
     favicon16x16 = "/favicon16x16.png"
     favicon32x32 = "/favicon32x32.png"
-    apple_touch_icon = "/static/apple-touch-icon.png"
+    apple_touch_icon = "/apple-touch-icon.png"
 
 
 [params.homeInfoParams]
@@ -86,13 +86,7 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
 #     weight = 40
   
 
-
-[deployment]
-  [[deployment.targets]]
-    name = 'production'
-    url = 'https://isilab-utalca.github.io/isilab-website/'
-
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+

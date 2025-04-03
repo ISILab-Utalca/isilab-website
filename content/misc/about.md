@@ -9,6 +9,9 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 
 ---
 
+
+# Current Team
+
 ## Researchers
 
 **Dr. Nicolas Barriga**
@@ -22,6 +25,35 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 
 > **Projects:** Character Brain Booster
 
+
+## Engineers
+
+
+
+**Alice Diaz** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick 
+
+**Joaquin Herrera** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick 
+
+**Nicolas Romero** | Professional | Software Engineering, AI and programming
+> **Projects:** Level Building Sidekick | Character Brain Booster
+
+**Nicolas Acevedo** | Professional | UI and UX Design
+
+> **Projects:** Level Building Sidekick 
+
+##  Students
+
+**Jose Del Solar** | Professional | Research Engineer
+> **Projects:** Semi-exhaustive puzzle generation
+
+---
+
+# Past Team 2021 - 2024
+
+## Researchers
+
 **Sven Von Brand** 
 > Researcher | Industry Liaison
 
@@ -34,29 +66,12 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 
 ---
 
-## Engineers
-
-**Jose Del Solar** | Professional | Research Engineer
-> **Projects:** Semi-exhaustive puzzle generation
-
-**Alice Diaz** | Professional | Software Engineering, AI and programming
-> **Projects:** Level Building Sidekick 
-
-**Joaquin Herrera** | Professional | Software Engineering, AI and programming
-> **Projects:** Level Building Sidekick 
-
-**Nicolas Romero** | Professional | Software Engineering, AI and programming
-> **Projects:** Level Building Sidekick | Character Brain Booster
-
 **Gabriel Sepulveda** | Professional | Software Engineering, AI and programming
 > **Projects:** Level Building Sidekick
 
 **Fernanda Gonzalez** | Professional | UI and UX Design
 > **Projects:** Level Building Sidekick | Character Brain Booster
 
-**Nicolas Acevedo** | Professional | UI and UX Design
-
-> **Projects:** Level Building Sidekick 
 
 **Diego Norambuena** | Professional | Software Engineering, AI and programming
 > **Projects:** Character Brain Booster
@@ -70,5 +85,3 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 
 **Sergio Ferrada** | Student | Undergraduate Thesis
 > Level Building Sidekick
-
----
