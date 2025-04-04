@@ -1,6 +1,6 @@
 +++
 date = '2025-04-01T09:51:20-03:00'
-draft = true
+draft = false
 title = 'LBS - Installation'
 tag = ["Tutorial", "LBS"]
 +++
@@ -9,9 +9,9 @@ tag = ["Tutorial", "LBS"]
 ## Installation
 LBS, an extension for Unity Engine, follows a standard installation process similar to other Unity extensions. Below are the necessary steps for installation:
 
-System Requirements: This extension is developed to be compatible with Unity versions 2022.3.3f1 or higher.
+System Requirements: This extension is developed to be compatible with **Unity 6 versions 6000.40.3f1** or higher.
 Download the asset package: To start the installation, it is required to download the asset package LBS.package. Once downloaded, simply have Unity Engine open and double-click on the downloaded file. The engine will recognize the package and open a window that will facilitate its import.
-Additional dependencies: It is important to note that this tool has dependencies with Newtonsoft Json. If this is not installed previously, the project may present multiple errors. To solve this, make sure to install it from Unity's Package Manager.
+S
 
 ## Usage
 To start working, select the ISILab window in **Window>ISILab>LevelBuildingSidekick**, this will open the main window of the tool with which you can start working. Next, we will provide a series of general descriptions that you can follow to manage the tool:

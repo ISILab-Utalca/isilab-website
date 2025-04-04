@@ -35,10 +35,10 @@ disableLanguages = []
     ShowBreadCrumbs = true
 
   [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon16x16.png"
-    favicon32x32 = "/favicon32x32.png"
-    apple_touch_icon = "/apple-touch-icon.png"
+    favicon = "images/favicon.ico"
+    favicon16x16 = "images/favicon16x16.png"
+    favicon32x32 = "images/favicon32x32.png"
+    apple_touch_icon = "images/apple-touch-icon.png"
 
 
 [params.homeInfoParams]
@@ -90,3 +90,10 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
   [caches.images]
     dir = ':cacheDir/images'
 
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
