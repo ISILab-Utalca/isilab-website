@@ -3,7 +3,7 @@ date = '2025-03-31T12:20:20-03:00'
 draft = true
 title = 'Tesis 1'
 tag = ["tesis", "Article"]
-author = "Nicolas Romerro"
+author = "Nicolas Romero"
 +++
 
 

@@ -4,6 +4,8 @@ draft = false
 title = 'Character Brain Booster'
 tags =  ["Projects"]
 author = "Gabriel Sepulveda" 
+showtoc = true
+tocopen = true
 +++
 
 

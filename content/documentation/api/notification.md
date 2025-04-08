@@ -2,7 +2,8 @@
 date = '2025-03-27T14:23:54-03:00'
 draft = false
 title = '[LBS API] -  Notification System'
-tags =  ["Documentation", "LBS"]
+tags =  ["Documentation","API", "LBS"]
+
 +++
 
 

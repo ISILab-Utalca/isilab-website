@@ -17,9 +17,9 @@ disableLanguages = []
 
 
 [params]
-    mainSections = ["posts", "projects"]
+    mainSections = ["posts", "projects", "documentation"]
     intro = true
-    headline = "Interactive Software Intelligence Laboratorye"
+    headline = "Interactive Software Intelligence Laboratory"
     description = "Laboratorio de software interactivo inteligente de la universidad de Talca."
     github = "https://github.com/ISILab-Utalca"
     twitter = "x.com/idvrv"

@@ -10,7 +10,7 @@ tocopen = true
 
 
 
-![LBS Editor](/images/lbs_01.png "Map Generated Using LBS")
+![LBS Editor](/images/lbs/lbs_01.png "Map Generated Using LBS")
 # Level Building Sidekick 2025
 
 LBS is an extension designed for [Unity Engine](https://unity.com), which facilitates developers in creating environments for their video games, thereby contributing to increased productivity. This extension features **artificial intelligence assistants** in various areas, which suggest modifications based on the fundamental characteristics developed by the user. These suggestions enable developers to explore new possibilities without manually creating these variations, fostering greater creative freedom.
