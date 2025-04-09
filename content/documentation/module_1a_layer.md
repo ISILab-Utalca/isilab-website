@@ -4,9 +4,20 @@ draft = false
 title = 'LBS - Module 1A Dungeon Generation '
 tag = ["Documentation","Tutorial","LBS"]
 weight = 20
+
+showtoc = true
+tocopen = true
+
+
+[cover]
+    image = "images/lbs/lbs_2025.png"
+    alt = "ALT"
+    caption = "lbs editor window "
+    relative = true
+
 +++
 
-![alt text](/images/lbs/lbs_2025.png)
+<!-- ![alt text](/images/lbs/lbs_2025.png) -->
 
 ## Module 1A - Interior Layer
 
@@ -19,12 +30,42 @@ The method use a `Tilemap` approach, representing the level created in this modu
 ![Interior layers tools](/images/lbs/step_1A_Info_01.png)
 
 
-**Select:** With select active you can select any part of a zone to view its information. This appears in the LBS inspector option under ‘Current Data’.
+**Select:** With select active you can select any part of a zone to view its information. This appears in the LBS inspector option under `Current Data` section.
 
-### Usage
+
+
+### Manual usage
+
+
 
 ![How To Paint Gif](/images/lbs/select_and_paint_01.gif)
 
-### Assitantant
+### Assistant
+
+The Assistant/Wizard in step 1A uses the Hill Climbing algorithm, seeking to meet 3 criteria:
+- If the connection between zones is fulfilled. 
+- If the rooms are the right size, and any space it considers empty will be filled. 
+- The wizard will give more importance to the connection between zones, and will give less importance to the deletion of empty spaces within zones.
+
+#### Assistant mode
+
+After adding the connections between zones we can click on `Assistants` side panel if it is not already displayed.
+
+A constraint panel will appear that uses artificial intelligence to know how far it can extend the dimensions of the room when creating 
+room connections.
+
+Optional: Press **Recalculate Constraints** to automatically calculate the current zone size settings if they were resized before Hill Climbing was run.
+
+Click the **Execute** button to run the optimization algorithm, which will try to find a room configuration that meets the user's constraints.
+
+> [!NOTE]
+> When running the algorithm, the operation may take some time to complete, the time taken depends directly on the number of rooms, the number of connections and the shape of the room.
 
 ![How To Use Assistant](/images/lbs/assitant_example_1a.gif)
+
+### 3D Generation 
+
+
+
+
+![3D Generation](/images/lbs/3d_generation_02.gif)

@@ -17,22 +17,27 @@ disableLanguages = []
 
 
 [params]
-    mainSections = ["posts", "projects", "documentation"]
-    intro = true
-    headline = "Interactive Software Intelligence Laboratory"
-    description = "Laboratorio de software interactivo inteligente de la universidad de Talca."
-    github = "https://github.com/ISILab-Utalca"
-    twitter = "x.com/idvrv"
-    email = "nbarriga@utalca.cl"
-    opengraph = true
-    shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
-    hideFooter = false
+  mainSections = ["posts", "projects", "documentation"]
+  intro = true
+  headline = "Interactive Software Intelligence Laboratory"
+  description = "Laboratorio de software interactivo inteligente de la universidad de Talca."
+  github = "https://github.com/ISILab-Utalca"
+  twitter = "x.com/idvrv"
+  email = "nbarriga@utalca.cl"
+  opengraph = true
+  shareTwitter = true
+  dateFormat = "Mon, Jan 2, 2006"
+  hideFooter = false
 
-    ShowReadingTime = true
-    #ShowShareButtons = true
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
+  ShowReadingTime = true
+  #ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+    
+  [params.cover]
+    responsiveImages = false
 
   [params.assets]
     favicon = "images/favicon.ico"
@@ -73,11 +78,11 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
     url = "/misc/about"
     weight = 35
 
-  [[menu.main]]
-    identifier = "utal"
-    name = "Utalca"
-    url = "https://admision.utalca.cl/carreras/ingenieria-en-desarrollo-de-videojuegos-y-realidad-virtual/"
-    weight = 100
+  # [[menu.main]]
+  #   identifier = "utal"
+  #   name = "Utalca"
+  #   url = "https://admision.utalca.cl/carreras/ingenieria-en-desarrollo-de-videojuegos-y-realidad-virtual/"
+  #   weight = 100
   
 #  [[menu.main]]
 #     identifier = "tesis"
@@ -97,3 +102,15 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
   [[module.mounts]]
     source = 'static'
     target = 'assets'
+
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
