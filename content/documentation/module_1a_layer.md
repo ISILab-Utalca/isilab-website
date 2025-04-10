@@ -65,7 +65,12 @@ Click the **Execute** button to run the optimization algorithm, which will try t
 
 ### 3D Generation 
 
-
-
-
 ![3D Generation](/images/lbs/3d_generation_02.gif)
+
+
+
+
+
+![3D Result](/images/lbs/3d_gen_capture_01.png)
+
+The LBS 3D Generator can produce mind-boggling graphics easily . 

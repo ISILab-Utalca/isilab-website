@@ -27,7 +27,7 @@ In addition to this, we can find in the vertical bar between these two aforement
 The layers that are created are displayed here. For each type of layer you will have different working tools, and the inspector view will change as well.
 
 currently there a 3 types of layer:
-- Map generation layer. [See Module-1A](../module_1a_layer/)
+- Map generation layer. [See Module-1A](../module_1a_layer/) or [Module-1B](../module_1b_layer/)
 - Entities population layer.
 - Quest design layer.
 
@@ -36,11 +36,27 @@ currently there a 3 types of layer:
 
 ![3D Size panel](/images/lbs/3DInfo_01.png)
 
-The windows and the 3D generator can be displayed by pressing the `3D` icons, but if pressed once more the windows can be hidden.
+The 3D generator window can be displayed by toggle the `3D` button in the side panel, you can press it again to hide the panel.
 
+#### Features
+
+When generating you can choose to build a single layer (the current selected one) or all the layers in the current project. The generator can be tweak with some configuration option:
+    
+- **Replace Previous:** Allow replace same name tile.
+- **Tile Size:** override the default tile size of the set.
+-  **Generate Ceiling:** (*Only in step 1A*) Close the room and use the `Ceiling` bundle.
+- **Build Light Probe:** (*Only in step 1A*) Generate light probes inside each room, allow easy dynamic lighting.
+- **Bake Lights:** (*Only in step 1A*) Automatically bake light for high quality static lighting.
+- **Build Reflections:** (*Only in step 1A*) Generate a `ReflectionProbe` Object in the center of each room.
 
 ---
-## LBS Inspector
+## LBS Inspector Panel
 
+![Side Panel Info](/images/lbs/Step_1A_Info_Side_panel_01.png)
 
+From the bottom-left side panel you can access to a variety of layer specific sections: 
 
+- **Current data:** The information of the selected object in the workspace is displayed.
+- **Layer Behavior / Manual Mode:**  You can access the brushes and other options for working manually in the workspace.
+- **Assistants / IA:** The assistants belonging to each type of layer can be displayed.
+ 
