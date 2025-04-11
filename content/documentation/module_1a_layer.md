@@ -23,7 +23,10 @@ tocopen = true
 
 Module 1A is intended for designing indoor scenery, such as dungeons or buildings.
 
-The method use a `Tilemap` approach, representing the level created in this module. The rooms can be modified by painting or removing the boxes. You can create zones to determine the number and positions of the rooms, by changing the data of these zones you can determine their size, and by generating connections you indicate which rooms are connected by doors.
+![Tilemap](/images/lbs/Step_1A_map_Info_01.png)
+
+
+The method use a `Tilemap` approach, representing the level created in this module. The rooms can be modified by painting or removing the Tiles. You can create zones to determine the number and positions of the rooms, by changing the data of these zones you can determine their size, and by generating connections you indicate which rooms are connected by doors.
 
 ### Tools
 
@@ -32,9 +35,15 @@ The method use a `Tilemap` approach, representing the level created in this modu
 
 **Select:** With select active you can select any part of a zone to view its information. This appears in the LBS inspector option under `Current Data` section.
 
+**Brush:** Allows you to paint areas or rooms.
+
+**Erase:** Allows you to delete one or more tiles from the created zones.
+
+**Set interior connection:** For the creation of walls, doors or placing gaps between zones.
 
 
-### Manual usage
+
+### Behavior and manual usage
 
 
 
@@ -54,9 +63,9 @@ After adding the connections between zones we can click on `Assistants` side pan
 A constraint panel will appear that uses artificial intelligence to know how far it can extend the dimensions of the room when creating 
 room connections.
 
-Optional: Press **Recalculate Constraints** to automatically calculate the current zone size settings if they were resized before Hill Climbing was run.
+Optional: Press the button `Recalculate Constraints` to automatically calculate the current zone size settings if they were resized before Hill Climbing was run.
 
-Click the **Execute** button to run the optimization algorithm, which will try to find a room configuration that meets the user's constraints.
+Click the `Execute` button to run the optimization algorithm, which will try to find a room configuration that meets the user's constraints.
 
 > [!NOTE]
 > When running the algorithm, the operation may take some time to complete, the time taken depends directly on the number of rooms, the number of connections and the shape of the room.
@@ -73,4 +82,4 @@ Click the **Execute** button to run the optimization algorithm, which will try t
 
 ![3D Result](/images/lbs/3d_gen_capture_01.png)
 
-The LBS 3D Generator can produce mind-boggling graphics easily . 
+The LBS 3D Generator can produce mind-boggling graphics easily. 

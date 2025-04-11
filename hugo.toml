@@ -34,7 +34,7 @@ disableLanguages = []
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  ShowRssButtonInSectionTermList = true
+  ShowRssButtonInSectionTermList = true 
     
   [params.cover]
     responsiveImages = false
@@ -71,6 +71,12 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
     name = "Docs"
     url = "/documentation/"
     weight = 30
+
+  [[menu.main]]
+    identifier = "api"
+    name = "API"
+    url = "/api/"
+    weight = 32
 
   [[menu.main]]
     identifier = "about_us"
