@@ -109,6 +109,7 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
+    
       [markup.goldmark.parser.attribute]
         block = true
         title = true

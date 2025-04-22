@@ -7,7 +7,7 @@ showtoc = true
 tocopen = true
 preview = "/images/lbs/3d_gen_capture_01.png"
 tags = [ "Documentation", "LBS", "Tutorial" ]
-slug = "lbs-module-1a-dungeon-generation"
+
 description = "Module 1A is intended for designing indoor scenery, such as dungeons or buildings."
 
 [cover]
@@ -22,7 +22,7 @@ relative = true
 ## Module 1A - Interior Layer
 
 
-![Tilemap](/images/lbs/Step_1A_map_Info_01.png)
+![Tilemap](Step_1A_map_Info_01.png)
 
 
 The method use a `Tilemap` approach, representing the level created in this module. The rooms can be modified by painting or removing the Tiles. You can create zones to determine the number and positions of the rooms, by changing the data of these zones you can determine their size, and by generating connections you indicate which rooms are connected by doors.
