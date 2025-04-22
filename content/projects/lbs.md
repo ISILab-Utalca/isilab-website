@@ -1,11 +1,15 @@
 +++
-date = '2025-03-26T16:29:06-03:00'
+date = "2025-04-22T17:11:01.155Z"
 draft = false
-title = 'Level Building Sidekick'
-author = 'Nicolas Barriga'
-tags =  ["Projects"]
+title = "Level Building Sidekick"
+author = "Nicolas Barriga"
+tags = [ "Projects" ]
 showtoc = true
 tocopen = true
+slug = "level-building-sidekick"
+
+[cover]
+image = "/images/lbs/assitant_example_1a.gif"
 +++
 
 

@@ -3,5 +3,7 @@
         "goldmark",
         "markdownify",
         "plainify"
-    ]
+    ],
+    "[markdown]": {
+    }
 }

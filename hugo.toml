@@ -52,7 +52,6 @@ title = "Interactive Software Intelligence Laboratory"
 content = "Laboratorio de software interactivo inteligente de la universidad de Talca."
 
 
-
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -81,7 +80,7 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
   [[menu.main]]
     identifier = "about_us"
     name = "About Us"
-    url = "/misc/about"
+    url = "/about/"
     weight = 35
 
   # [[menu.main]]
@@ -89,13 +88,6 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
   #   name = "Utalca"
   #   url = "https://admision.utalca.cl/carreras/ingenieria-en-desarrollo-de-videojuegos-y-realidad-virtual/"
   #   weight = 100
-  
-#  [[menu.main]]
-#     identifier = "tesis"
-#     name = "Tesis"
-#     url = "/tesis/"
-#     weight = 40
-  
 
 [caches]
   [caches.images]

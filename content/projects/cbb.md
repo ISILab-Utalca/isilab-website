@@ -1,15 +1,24 @@
 +++
-date = '2025-03-21T10:46:01-03:00'
+date = "2025-03-21T10:46:01-03:00"
 draft = false
-title = 'Character Brain Booster'
-tags =  ["Projects"]
-author = "Gabriel Sepulveda" 
-showtoc = true
-tocopen = true
+title = "Character Brain Booster"
+tags = [ "Projects", "CBB" ]
+author = "Gabriel Sepulveda"
+showtoc = false
+tocopen = false
+weight = 0
+slug = "character-brain-booster"
+preview = ""
+tag = [ ]
+
+[cover]
+alt = ""
+relative = false
+image = "/images/CBB_conceptual_2.png"
 +++
 
 
-![CBB](/images/CBB_conceptual_2.png)
+
 
 **Character Brain Booster** will allow video game developers and designers to define and configure features of enemies and participants that interact with the leading actor during the video game design and testing phases as a debugging tool.
 
