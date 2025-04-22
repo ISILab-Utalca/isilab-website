@@ -1,27 +1,26 @@
 +++
-date = '2025-04-08T15:31:59-04:00'
+date = "2025-04-22T17:02:57.752Z"
 draft = false
-title = 'LBS - Module 1A Dungeon Generation '
-tag = ["Documentation","Tutorial","LBS"]
+title = "LBS - Module 1A Dungeon Generation "
 weight = 20
-
 showtoc = true
 tocopen = true
-
+preview = "/images/lbs/3d_gen_capture_01.png"
+tags = [ "Documentation", "LBS", "Tutorial" ]
+slug = "lbs-module-1a-dungeon-generation"
+description = "Module 1A is intended for designing indoor scenery, such as dungeons or buildings."
 
 [cover]
-    image = "images/lbs/lbs_2025.png"
-    alt = "ALT"
-    caption = "lbs editor window "
-    relative = true
-
+image = "images/lbs/lbs_2025.png"
+alt = "ALT"
+caption = "lbs editor window "
+relative = true
 +++
 
 <!-- ![alt text](/images/lbs/lbs_2025.png) -->
 
 ## Module 1A - Interior Layer
 
-Module 1A is intended for designing indoor scenery, such as dungeons or buildings.
 
 ![Tilemap](/images/lbs/Step_1A_map_Info_01.png)
 
