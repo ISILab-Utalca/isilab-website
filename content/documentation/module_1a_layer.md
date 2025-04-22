@@ -35,6 +35,7 @@ The method use a `Tilemap` approach, representing the level created in this modu
 **Select:** With select active you can select any part of a zone to view its information. This appears in the LBS inspector option under `Current Data` section.
 
 **Brush:** Allows you to paint areas or rooms.
+{.item}
 
 **Erase:** Allows you to delete one or more tiles from the created zones.
 
