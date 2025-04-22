@@ -29,7 +29,7 @@ The method use a `Tilemap` approach, representing the level created in this modu
 
 ### Tools
 
-![Interior layers tools](/images/lbs/step_1A_Info_01.png)
+![Interior layers tools](/images/lbs/step_1A_Info_01.png "layer")
 
 
 **Select:** With select active you can select any part of a zone to view its information. This appears in the LBS inspector option under `Current Data` section.

@@ -1,0 +1,11 @@
+{{ with resources.Get "/images/favicon-32x32.png" }}
+  {{ $content := dict
+    "mediaType" .MediaType.Type
+    "value" .
+  }}
+  {{ $resource := dict
+    "content" $content
+    "path" "cover.png"
+  }}
+  {{ $.AddResource $resource }}
+{{ end }}
