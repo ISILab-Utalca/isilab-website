@@ -25,6 +25,7 @@ Level Building Sidekick runs as an extension of the Unity game engine. This tool
 
 
 
+
 The architecture of this tool has an element composition orientation, allowing LBS to continue to be extended by both the development team and its users. In addition, this approach makes LBS a great research platform, as it allows new AI techniques to be added on top of the same tool without having to start from scratch, cutting development times and allowing the researcher to focus on the relevant areas of their research.
 
 
