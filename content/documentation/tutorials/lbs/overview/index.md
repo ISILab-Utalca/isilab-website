@@ -9,7 +9,7 @@ tocopen = true
 +++
 
 
-![LBS Editor](/images/lbs/lbs_2025.png)
+![LBS Editor](/lbs_2025.png)
 
 LBS is a mixed-initiative content generation tool focused on creating content such as levels, population and quests.
 
