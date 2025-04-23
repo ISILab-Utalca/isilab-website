@@ -15,9 +15,9 @@ image = "images/lbs/lbs_2025.png"
 alt = "ALT"
 caption = "lbs editor window "
 relative = true
+
 +++
 
-<!-- ![alt text](/images/lbs/lbs_2025.png) -->
 
 ## Module 1A - Interior Layer
 
@@ -47,7 +47,7 @@ The method use a `Tilemap` approach, representing the level created in this modu
 
 
 
-![How To Paint Gif](/images/lbs/select_and_paint_01.gif)
+![How To Paint Gif](select_and_paint_01.gif)
 
 ### Assistant
 
@@ -70,11 +70,11 @@ Click the `Execute` button to run the optimization algorithm, which will try to 
 > [!NOTE]
 > When running the algorithm, the operation may take some time to complete, the time taken depends directly on the number of rooms, the number of connections and the shape of the room.
 
-![How To Use Assistant](/images/lbs/assitant_example_1a.gif)
+![How To Use Assistant](assitant_example_1a.gif)
 
 ### 3D Generation 
 
-![3D Generation](/images/lbs/3d_generation_02.gif)
+![3D Generation](3d_generation_02.gif)
 
 
 
