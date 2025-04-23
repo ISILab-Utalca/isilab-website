@@ -15,7 +15,7 @@ To start working, select the ISILab window in **Window>ISILab>LevelBuildingSidek
 ---
 ## Main Windows
 
-![LBS Main Window](/images/lbs/Unity_1OnOncbeB3.png  "Main Window")
+![LBS Main Window](/Unity_1OnOncbeB3.png  "Main Window")
 
 In the main window, you will find a large working area visualized with a tiling of squares, in this area you can place, move, and remove elements to shape your levels. To the right of this, you will find an internal inspector that will allow you to work with the specific values of the elements to be modified, their base behaviors, and the assistants that will help you work with this tool.
 
@@ -24,7 +24,7 @@ In addition to this, we can find in the vertical bar between these two aforement
 
 ### Layers
 
-![Layer Panel](/images/lbs/layer_info_01.png)
+![Layer Panel](/layer_info_01.png)
 
 The layers that are created are displayed here. For each type of layer you will have different working tools, and the inspector view will change as well.
 
@@ -36,7 +36,7 @@ currently there a 3 types of layer:
 
 ### 3D Generation
 
-![3D Size panel](/images/lbs/3DInfo_01.png)
+![3D Size panel](/3DInfo_01.png)
 
 The 3D generator window can be displayed by toggle the `3D` button in the side panel, you can press it again to hide the panel.
 
@@ -54,7 +54,7 @@ When generating you can choose to build a single layer (the current selected one
 ---
 ## LBS Inspector Panel
 
-![Side Panel Info](/images/lbs/Step_1A_Info_Side_panel_01.png)
+![Side Panel Info](/Step_1A_Info_Side_panel_01.png)
 
 From the bottom-left side panel you can access to a variety of layer specific sections: 
 

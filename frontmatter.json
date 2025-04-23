@@ -75,13 +75,13 @@
               "title": "relative",
               "name": "relative",
               "type": "boolean"
+            },
+            {
+              "title": "author",
+              "name": "author",
+              "type": "string"
             }
           ]
-        },
-        {
-          "title": "tag",
-          "name": "tag",
-          "type": "tags"
         }
       ]
     }

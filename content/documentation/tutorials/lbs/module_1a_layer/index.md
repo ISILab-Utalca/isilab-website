@@ -15,7 +15,7 @@ image = "images/lbs/lbs_2025.png"
 alt = "ALT"
 caption = "lbs editor window "
 relative = true
-
+author = "Nicolas Acevedo"
 +++
 
 
@@ -29,7 +29,7 @@ The method use a `Tilemap` approach, representing the level created in this modu
 
 ### Tools
 
-![Interior layers tools](/images/lbs/step_1A_Info_01.png "layer")
+![Interior layers tools](/step_1A_Info_01.png "layer")
 
 
 **Select:** With select active you can select any part of a zone to view its information. This appears in the LBS inspector option under `Current Data` section.
@@ -74,12 +74,11 @@ Click the `Execute` button to run the optimization algorithm, which will try to 
 
 ### 3D Generation 
 
+
 ![3D Generation](3d_generation_02.gif)
 
 
 
-
-
-![3D Result](/images/lbs/3d_gen_capture_01.png)
+![3D Result](/3d_gen_capture_01.png)
 
 The LBS 3D Generator can produce mind-boggling graphics easily. 
