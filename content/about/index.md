@@ -6,7 +6,6 @@ title = 'About Us'
 
 The Intelligent Interactive Software Laboratory of the University of Talca is part of the School of Engineering in Video Game Development and Virtual Reality, Campus Lircay, Talca.
 
-
 ---
 
 
