@@ -13,7 +13,7 @@ image = "/images/lbs/assitant_example_1a.gif"
 +++
 
 
-{{< youtube smIRgKcAXoY >}}
+{{< youtube id=smIRgKcAXoY loop=true >}}
 
 # Level Building Sidekick 2025
 
