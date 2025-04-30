@@ -5,5 +5,4 @@ weight = 35
 tags = [ "Documentation", "LBS", "Tutorial" ]
 +++
 
-{{ youtube 0RKpf3rK57I }}
-
+![alt text](quest_01.png)
