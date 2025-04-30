@@ -30,10 +30,17 @@ Module 1B is focused on the creation of exteriors or tiles with connections that
 
 ### Workflow
 
-![Step 2 demostration](paso_01b_create_01.gif)
+![Step 2 demonstration](paso_01b_create_01.gif)
+
+1. a 
+2. b
+3. c
+
 
 
 ### 3D Generation de Exterior Map.
+
+
 
 ![3D Result](Step_1A_3d_gen_01_compr.png)
 
