@@ -6,10 +6,10 @@ title = 'About Us'
 
 The Intelligent Interactive Software Laboratory of the University of Talca is part of the School of Engineering in Video Game Development and Virtual Reality, Campus Lircay, Talca.
 
+
+# Current Team - 2025
+
 ---
-
-
-# Current Team
 
 ## Researchers
 
@@ -22,12 +22,21 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 **Camila Aliaga** 
 > Researcher | UX and Usability researcher
 
-> **Projects:** Character Brain Booster
+> **Projects:** Character Brain Booster |  Level Building Sidekick 
 
+**Dr. Felipe Besoain** 
+> HCI Researcher
+
+> **Project:** Level Building Sidekick
+
+**Dr. Cristian Vidal**
+> Postdoctoral Researcher
+
+> **Project:** Design Process for Videogame Development Tools.
+
+---
 
 ## Engineers
-
-
 
 **Alice Diaz** | Professional | Software Engineering, AI and programming
 > **Projects:** Level Building Sidekick 
@@ -42,16 +51,30 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 
 > **Projects:** Level Building Sidekick 
 
+---
+
 ##  Students
 
 **Jose Del Solar** | Professional | Research Engineer
 > **Projects:** Semi-exhaustive puzzle generation
+
+**Hans Schaa**  | PhD Student
+> **Project**: Semi-exhaustive puzzle generation
+
+**Nicolas Romero:** | PhD Student 
+> **Project:** Level Building Sidekick
+
+**Gabriel Sepúlveda** | PhD Student
+> **Project:** Astroinformatics
 
 ---
 
 # Past Team 2021 - 2024
 
 ## Researchers
+
+**Dr. Nicolas Barriga**
+> Director | Researcher
 
 **Sven Von Brand** 
 > Researcher | Industry Liaison
@@ -64,6 +87,8 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 >**Projects:** Level Building Sidekick | Character Brain Booster 
 
 ---
+
+## Engineers
 
 **Gabriel Sepulveda** | Professional | Software Engineering, AI and programming
 > **Projects:** Level Building Sidekick
