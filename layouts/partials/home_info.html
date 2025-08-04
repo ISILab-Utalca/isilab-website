@@ -2,7 +2,6 @@
 {{ $logo := .resources.GetMatch site.Params.homeInfoParam.logo }}
 
 
-
 <article class="first-entry home-info">
 
     <header class="entry-header">
@@ -12,14 +11,21 @@
     </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
+        }}}
     </div>
     <a class="read-button" href='{{ "misc/about" | absLangURL }}'>More About Us!</a>
+
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
         
     </footer>
+    
 </article>
+    
+    
 
+<h3>Articles</h3>
+<hr>
 <style>
     .home-info {
         display: flex;

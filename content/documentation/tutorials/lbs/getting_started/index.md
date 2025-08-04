@@ -6,6 +6,10 @@ tags = [ "Documentation", "Tutorial", "LBS" ]
 weight = 15
 showtoc = true
 tocopen = false
+
+
+pdf = "/LBS_manual_21x14.8_compressed.pdf"
+
 +++
 
 ## Usage
@@ -62,3 +66,8 @@ From the bottom-left side panel you can access to a variety of layer specific se
 - **Layer Behavior / Manual Mode:**  You can access the brushes and other options for working manually in the workspace.
 - **Assistants / IA:** The assistants belonging to each type of layer can be displayed.
  
+## Old documentation (Spanish)
+
+For a full detailed manual documentation we created a manual for an old version `0.2.0 or previous`. Soon we release a new and updated manual.
+
+[LBS USER MANUAL ES 2023](/isilab-website/LBS_manual_21x14.8_compressed.pdf)

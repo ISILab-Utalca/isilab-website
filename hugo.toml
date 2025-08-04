@@ -28,6 +28,8 @@ disableLanguages = []
   shareTwitter = true
   dateFormat = "Mon, Jan 2, 2006"
   hideFooter = false
+  video =   "https://youtu.be/smIRgKcAXoY?si=kTdGSH9qTlSYHzQa"
+
 
   ShowReadingTime = true
   #ShowShareButtons = true
@@ -104,6 +106,7 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
+
 
 
 [markup]
