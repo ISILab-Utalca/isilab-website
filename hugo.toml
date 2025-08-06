@@ -19,9 +19,6 @@ disableDefaultLanguageRedirect = false
     weight = 2
 
 
-
-
-
 [taxonomies]
   genre = 'genres'
   tag = 'tags'
@@ -41,6 +38,7 @@ disableDefaultLanguageRedirect = false
   dateFormat = "Mon, Jan 2, 2006"
   hideFooter = false
   video =   "https://youtu.be/smIRgKcAXoY?si=kTdGSH9qTlSYHzQa"
+  defaultTheme = "dark"
 
 
   ShowReadingTime = true
@@ -61,40 +59,42 @@ disableDefaultLanguageRedirect = false
 
 
 [params.homeInfoParams]
-logo = "../assets/images/isilab_box_logo_1x.png"
-title = "Interactive Software Intelligence Laboratory"
-content = "Laboratorio de software interactivo inteligente de la universidad de Talca."
+  logo = "../assets/images/isilab_box_logo_1x.png"
+  title = "Interactive Software Intelligence Laboratory"
+  content = "Laboratorio de software interactivo inteligente de la universidad de Talca."
+  TileImageDark = "images/blk_isometric_tile.png"
+  TileImageLight = "images/wth_isometric_tile.png"
 
 
 [menu]
   [[menu.main]]
     identifier = "posts"
     name = "Articles"
-    url = "/posts/"
+    url = "posts/"
     weight = 10
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/projects/"
+    url = "projects/"
     weight = 20
 
   [[menu.main]]
     identifier = "documentation"
     name = "Documentation"
-    url = "/documentation/"
+    url = "documentation/"
     weight = 30
 
   [[menu.main]]
     identifier = "api"
     name = "API"
-    url = "/api/"
+    url = "api/"
     weight = 32
 
   [[menu.main]]
     identifier = "about_us"
     name = "About Us"
-    url = "/about/"
+    url = "about/"
     weight = 35
 
   # [[menu.main]]
@@ -118,7 +118,6 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
-
 
 
 [markup]
