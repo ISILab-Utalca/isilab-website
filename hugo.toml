@@ -7,7 +7,19 @@ theme = 'PaperMod'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = false
-disableLanguages = []
+
+[languages]
+  [languages.en]
+      languageName = "English"
+      languageCode = "en"
+    weight = 1
+  [languages.es]
+    languageName = "Espanol"
+    languageCode = "es"
+    weight = 2
+
+
+
 
 
 [taxonomies]
@@ -49,7 +61,7 @@ disableLanguages = []
 
 
 [params.homeInfoParams]
-#logo = "../assets/images/isilab_box_logo_1x.png"
+logo = "../assets/images/isilab_box_logo_1x.png"
 title = "Interactive Software Intelligence Laboratory"
 content = "Laboratorio de software interactivo inteligente de la universidad de Talca."
 
@@ -69,7 +81,7 @@ content = "Laboratorio de software interactivo inteligente de la universidad de 
 
   [[menu.main]]
     identifier = "documentation"
-    name = "Docs"
+    name = "Documentation"
     url = "/documentation/"
     weight = 30
 

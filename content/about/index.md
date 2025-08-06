@@ -51,6 +51,11 @@ The Intelligent Interactive Software Laboratory of the University of Talca is pa
 
 > **Projects:** Level Building Sidekick 
 
+
+**Sebastian Martin** | Professional | Software Engineering, AI and programming
+
+> **Projects:** Level Building Sidekick
+
 ---
 
 ##  Students

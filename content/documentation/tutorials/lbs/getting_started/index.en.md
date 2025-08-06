@@ -7,8 +7,8 @@ weight = 15
 showtoc = true
 tocopen = false
 
-
-pdf = "/LBS_manual_21x14.8_compressed.pdf"
+[params]
+    pdf = "/LBS_manual_21x14.8_compressed.pdf"
 
 +++
 
@@ -68,6 +68,6 @@ From the bottom-left side panel you can access to a variety of layer specific se
  
 ## Old documentation (Spanish)
 
-For a full detailed manual documentation we created a manual for an old version `0.2.0 or previous`. Soon we release a new and updated manual.
+For a detailed documentation of the LBS we have created a manual for an older version `0.2.0 or earlier`. We will soon publish a new and updated manual.
 
 [LBS USER MANUAL ES 2023](/isilab-website/LBS_manual_21x14.8_compressed.pdf)
