@@ -1,25 +1,25 @@
 +++
 date = '2025-04-07T12:18:20-04:00'
 draft = false
-title = 'LBS - Installation'
+title = '1. LBS - Instalación'
 tag = ["Documentation","Tutorial","LBS"]
 weight = 10
 showtoc = true
 tocopen = true
 +++
 
-## Installation
 
-LBS, an extension for Unity Engine, follows a standard installation process similar to other Unity extensions. Below are the necessary steps for installation:
 
-### Current release
+LBS, una extensión para Unity Engine, sigue un proceso de instalación estándar similar al de otras extensiones de Unity. A continuación se detallan los pasos necesarios para la instalación:
+
+### Versión actual 0.4.0
 
 
 ![Download web](lbs_release_01_2025.png)
 
-> LBS V0.3.3 For Unity version 6000.40.3f1
+> LBS V0.4.0 For Unity version 6000.40.3f1
 
-[Download! and repository site!](https://github.com/ISILab-Utalca/LevelBuildingSidekick/releases/tag/release-0.2.3-hotfix)
+[Download! and repository site!](https://github.com/ISILab-Utalca/LevelBuildingSidekick/releases/tag/release-0.4.0-quests)
 
 ---
 

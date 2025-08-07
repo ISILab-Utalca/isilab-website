@@ -1,7 +1,7 @@
 +++
 date = "2025-04-22T17:02:57.752Z"
 draft = false
-title = "LBS - Module 1A Dungeon Generation "
+title = "3. LBS - Modulp 1A -  Generacion de Habitaciones"
 weight = 20
 showtoc = true
 tocopen = true
@@ -10,10 +10,7 @@ tags = [ "Documentation", "LBS", "Tutorial" ]
 
 description = "Module 1A is intended for designing indoor scenery, such as dungeons or buildings."
 
-[cover]
-image = "images/lbs/lbs_2025.png"
-alt = "ALT"
-caption = "lbs editor window "
+
 relative = true
 author = "Nicolas Acevedo"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "2025-04-08T11:05:31-04:00"
 draft = false
-title = "LBS - Primeros pasos"
+title = "2. LBS - Primeros pasos"
 tags = [ "Documentation", "Tutorial", "LBS" ]
 weight = 15
 showtoc = true
