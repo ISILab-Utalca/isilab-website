@@ -11,13 +11,13 @@ tocopen = true
 
 ![LBS Editor](/lbs_2025.png)
 
-LBS is a mixed-initiative content generation tool focused on creating content such as levels, population and quests.
+LBS es una iniciativa mixta, como también, una herramienta de generación de contenido enfocada en crear contenido como niveles, populación de props y quests.
 
-Level Building Sidekick (LBS) allows interactive software developers to define the architecture, constraints, graphical elements and decorative details to be used in the construction of a proposed game level. This process allows an increase of the quality and diversity of content they can offer their players. The tool allows artists to upload any type of art they create for their game, allowing them to compose custom art sets for different genres, sections or styles. 
+Level Building Sidekick (LBS) permite que los desarrolladores de software interactivo definan la arquitectura, restricciones, elementos gráficos y detalles decorativos que serán usados en la construcción del nivel de juego propuesto. Este proceso permite un incremento de la calidad y diversidad de contenido que pueden ofrecer a sus jugadores. La herramienta permite que artistas suban cualquier tipo de arte que crearon para su juego, permitiéndoles componer sets de arte customizada para distintos juegos, secciones o estilos.
 
 ### Assistant
 
-The intelligent Assistant automatically suggest options or variations of this content that share common characteristics with what was initially established by the developers. Thus, when creating a level proposal, it is easy to have a variety of alternative configurations thanks to the different artistic resources that can be loaded by the designer and the suggestions given by the intelligent assistants.
+El asistente inteligente automáticamente sugiere opciones o variaciones de este contenido que compartan características comunes con lo que fue inicialmente establecido por los desarrolladores. De esta forma, cuando se crea una propuesta de nivel, es fácil tener una variedad de configuraciones alternativas gracias a los ditintos recursos artísticos qu pueden ser cargados por el diseñador y las sugerencias hechas por el asistente inteligente
 
 ### Unity integration
 
