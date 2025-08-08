@@ -1,6 +1,6 @@
 +++
 title = "6. LBS - Modulo 3 - Sistema de Creacion de Misiones"
-draft = true
+draft = false
 weight = 35
 tags = [ "Documentation", "LBS", "Tutorial" ]
 author = ["Nicolas Acevedo"]
@@ -51,12 +51,18 @@ Permite agregar nodos de misión desde la paleta de misiones.
 ## 6.3 Toolbox (Behavior)
 
 
+![alt text](Step_3_Pallete.png)
+
+Posibles gramaticas:
+- 
+
+
+
 ## 6.4 Asistente
 
 
 
 
-![alt text](Step_3_Pallete.png)
 
 
 
