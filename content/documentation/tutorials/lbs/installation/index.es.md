@@ -8,8 +8,6 @@ showtoc = true
 tocopen = true
 +++
 
-
-
 LBS, una extensión para Unity Engine, sigue un proceso de instalación estándar similar al de otras extensiones de Unity. A continuación se detallan los pasos necesarios para la instalación:
 
 ### Versión actual 0.4.0
@@ -17,7 +15,7 @@ LBS, una extensión para Unity Engine, sigue un proceso de instalación estánda
 
 ![Download web](lbs_release_01_2025.png)
 
-> LBS V0.4.0 For Unity version 6000.40.3f1
+> LBS V0.4.0 For Unity version 6000.0.40f1
 
 [Download! and repository site!](https://github.com/ISILab-Utalca/LevelBuildingSidekick/releases/tag/release-0.4.0-quests)
 
@@ -25,7 +23,7 @@ LBS, una extensión para Unity Engine, sigue un proceso de instalación estánda
 
 ### How to install!
 
-System Requirements: This extension is developed to be compatible with **Unity 6 versions 6000.40.3f1** or higher. To start the installation, it is required to download some packages like `newtonsoft.JSON`. The engine will recognize the package and open a window that will facilitate its import.
+System Requirements: This extension is developed to be compatible with **Unity 6 versions 6000.0.40f1** or higher. To start the installation, it is required to download some packages like `newtonsoft.JSON`. The engine will recognize the package and open a window that will facilitate its import.
 
 
 ![How to Install 01](install_info_01.png)

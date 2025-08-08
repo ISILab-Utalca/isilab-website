@@ -24,7 +24,7 @@ Para empezar a trabajar, seleccione la ventana ISILab **Window>ISILab>LevelBuild
 En la ventana principal, encontrarás un área de trabajo grande visualizada con un mosaico de cuadrados, en esta área puedes colocar, mover y eliminar elementos para dar forma a tus niveles. A la derecha de esta, encontrarás un inspector interno que te permitirá trabajar con los valores específicos de los elementos que se van a modificar, sus comportamientos básicos y los asistentes que te ayudarán a trabajar con esta herramienta.
 
 
-Además de esto, en la barra vertical situada entre los dos elementos mencionados anteriormente encontramos tres botones generales que permiten mostrar y ocultar tres paneles principales para organizar el trabajo. El primero corresponde a un panel para organizar el contenido del nivel por capas, el segundo corresponde a un panel para trabajar por capas las misiones que se crean en estos niveles, y el tercero corresponde al panel que nos permitirá pasar estos niveles a estructuras directamente utilizables en Unity.
+Además de esto, en la barra vertical situada entre los dos elementos mencionados anteriormente encontramos dos botones generales que permiten mostrar y ocultar dos paneles principales para organizar el trabajo. El primero corresponde a un panel para organizar el contenido del nivel por capas, el segundo corresponde al panel que nos permitirá pasar estas capas a estructuras directamente utilizables en Unity.
 
 ### Layers
 
@@ -32,9 +32,9 @@ Además de esto, en la barra vertical situada entre los dos elementos mencionado
 
 The layers that are created are displayed here. For each type of layer you will have different working tools, and the inspector view will change as well.
 
-currently there a 3 types of layer:
+currently there a 3 types of layers:
 - Map generation layer. [See Module-1A](../module_1a_layer/) or [Module-1B](../module_1b_layer/)
-- Entities population layer.
+- Entities population layer. [See Module-2](../population_layer/)
 - Quest design layer.
 
 
