@@ -24,7 +24,7 @@ To start working, select the ISILab window in **Window>ISILab>LevelBuildingSidek
 In the main window, you will find a large working area visualized with a tiling of squares, in this area you can place, move, and remove elements to shape your levels. To the right of this, you will find an internal inspector that will allow you to work with the specific values of the elements to be modified, their base behaviors, and the assistants that will help you work with this tool.
 
 
-In addition to this, we can find in the vertical bar between these two aforementioned elements 3 general buttons, which will allow showing and hiding 3 main panels to organize the work. The first corresponds to a panel to organize the content of the level by layers, the second corresponds to a panel to work by layers the quests that are created on these levels, and the third corresponds to the panel that will allow us to pass these levels to structures directly usable in unity.
+In addition to this, we can find in the vertical bar between these two aforementioned elements 2 general buttons, which will allow showing and hiding 2 main panels to organize the work. The first corresponds to a panel to organize the content of the level by layers, the second corresponds to the panel that will allow us to pass these layers to structures directly usable in unity.
 
 ### Layers
 
@@ -32,9 +32,9 @@ In addition to this, we can find in the vertical bar between these two aforement
 
 The layers that are created are displayed here. For each type of layer you will have different working tools, and the inspector view will change as well.
 
-currently there a 3 types of layer:
+currently there a 3 types of layers:
 - Map generation layer. [See Module-1A](../module_1a_layer/) or [Module-1B](../module_1b_layer/)
-- Entities population layer.
+- Entities population layer.[See Module-2](../population_layer/)
 - Quest design layer.
 
 

@@ -24,7 +24,7 @@ LBS, an extension for Unity Engine, follows a standard installation process simi
 
 ### How to install!
 
-System Requirements: This extension is developed to be compatible with **Unity 6 versions 6000.40.3f1** or higher. To start the installation, it is required to download some packages like `newtonsoft.JSON`. The engine will recognize the package and open a window that will facilitate its import.
+System Requirements: This extension is developed to be compatible with **Unity 6 versions 6000.0.40f1** or higher. To start the installation, it is required to download some packages like `newtonsoft.JSON`. The engine will recognize the package and open a window that will facilitate its import.
 
 
 ![How to Install 01](install_info_01.png)
