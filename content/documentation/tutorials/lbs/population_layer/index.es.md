@@ -8,4 +8,4 @@ author = "Nicolas Acevedo"
 
 ![Population main view](population_01.png)
 
-**Module 2 - Population:** describes how the population works. In the maps created, whether exterior or interior, you can place **assets**, **entities** and **decorative elements** such as enemies, players, furniture, weapons, rewards, among others. There is also an assistant called `Map-Elites`, which is an AI that orders and generates different varieties of position of the elements on the map.
+**Módulo 2 - Población:** describe cómo funciona la población de assets. En los mapas creados, ya sean exteriores o interiores, puedes colocar **Assets**, **entidades** y **elementos decorativos** como enemigos, jugadores, muebles, armas, recompensas, entre otros. También hay un asistente llamado «Map-Elites», que es una IA que ordena y genera diferentes variedades de posición de los elementos en el mapa.

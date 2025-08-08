@@ -41,7 +41,6 @@ The method use a `Tilemap` approach, representing the level created in this modu
 ### Behavior and manual usage
 
 
-
 ![How To Paint Gif](select_and_paint_01.gif)
 
 ### Assistant
