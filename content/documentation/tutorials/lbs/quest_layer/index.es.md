@@ -1,5 +1,5 @@
 +++
-title = "6. LBS - Modulo 3 - Sistema de Creacion de Misiones"
+title = "LBS - Modulo 3 - Sistema de Creacion de Misiones"
 draft = false
 weight = 35
 tags = [ "Documentation", "LBS", "Tutorial" ]

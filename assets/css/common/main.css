@@ -92,3 +92,10 @@ blockquote > p {
     color: var(--text-color);
     margin: 1rem ;
 }
+
+
+.post-tags > li > a {
+    border-radius: 16px;
+    background: var(--darkest);
+    gap: 8px;
+}

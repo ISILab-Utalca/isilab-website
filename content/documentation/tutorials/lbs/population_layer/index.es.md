@@ -1,5 +1,5 @@
 +++
-title = "5. LBS - Modulo 2 - Asset Population System"
+title = "LBS - Modulo 2 - Asset Population System"
 weight = 30
 tags = [ "LBS", "Documentation" ]
 author = "Nicolas Acevedo"
