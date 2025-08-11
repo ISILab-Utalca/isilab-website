@@ -21,7 +21,7 @@ The intelligent Assistant automatically suggest options or variations of this co
 
 ### Unity integration
 
-Level Building Sidekick runs as an extension of the Unity game engine. This tool adds a series of new customizable windows within the development enviroment, following the philosophy of the engine to work all disciplines related to it within the same and not having the need to use multiple tools at once. It allows to save the modifications in a serialized way, so that they can be shared with other developers and they can continue modifying.
+Level Building Sidekick runs as an extension of the Unity game engine. This tool adds a series of new customizable windows within the development enviroment, following the philosophy of the engine to work all disciplines related to it within the same and not having the need to use multiple tools at once. LBS also allows to save the modifications in a serialized way, so that they can be shared with other developers and they can continue modifying.
 
 
 
