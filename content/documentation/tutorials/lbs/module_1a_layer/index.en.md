@@ -1,7 +1,7 @@
 +++
 date = "2025-04-22T17:02:57.752Z"
 draft = false
-title = "3. LBS - Module 1A Dungeon Generation "
+title = "LBS - Module 1A Dungeon Generation "
 weight = 20
 showtoc = true
 tocopen = true
