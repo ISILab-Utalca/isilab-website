@@ -10,6 +10,9 @@ tocopen = true
 
 +++
 
+> ⚠️ Esta pagina esta en construccion por ahora!
+
+
 ![Preview Quests](Step_3_Capture.png)
 
 El Módulo 3 permite crear misiones coherentes con los elementos en el nivel y un conjunto predefinido de reglas o gramática. Además, genera un observador(eventos) y desencadenadores(callbacks) en la escena de Unity para gestionar el flujo de la misión. Puedes agregar nodos que representan acciones, conectar nodos, establecer áreas en las que se debe realizar la acción, generar un observador y desencadenador simple para cada acción e indicar mediante cambios de colores si los nodos son válidos según la gramática seleccionada. 
@@ -50,11 +53,18 @@ Permite agregar nodos de misión desde la paleta de misiones.
 
 ## 6.3 Toolbox (Behavior)
 
+### Quest Selecionadas
+
+![alt text](Step_3_Selected_Layer.png)
+
+
+### Lista de Quest 
 
 ![alt text](Step_3_Pallete.png)
 
-Posibles gramaticas:
-- 
+Posibles gramaticas a aplicar:
+
+
 
 
 
