@@ -1,7 +1,7 @@
 +++
 date = '2025-04-07T12:18:20-04:00'
 draft = false
-title = '1. LBS - Instalación'
+title = 'LBS - Instalación'
 tag = ["Documentation","Tutorial","LBS"]
 weight = 10
 showtoc = true

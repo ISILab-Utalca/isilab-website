@@ -1,7 +1,7 @@
 +++
 date = "2025-04-22T17:02:57.752Z"
 draft = false
-title = "3. LBS - Modulp 1A -  Generacion de Habitaciones"
+title = "LBS - Modulp 1A -  Generacion de Habitaciones"
 weight = 20
 showtoc = true
 tocopen = true

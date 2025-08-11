@@ -1,7 +1,7 @@
 +++
 date = '2025-04-09T13:02:10-04:00'
 draft = false
-title = '4. LBS - Module 1B - Wave Function Collapse'
+title = 'LBS - Module 1B - Wave Function Collapse'
 tags = ["Documentation","Tutorial","LBS"]
 weight = 25
 author = "Nicolas Acevedo"
@@ -31,11 +31,6 @@ Module 1B is focused on the creation of exteriors or tiles with connections that
 ### Workflow
 
 ![Step 2 demonstration](paso_01b_create_01.gif)
-
-1. a 
-2. b
-3. c
-
 
 
 ### 3D Generation de Exterior Map.
