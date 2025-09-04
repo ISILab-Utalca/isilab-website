@@ -14,19 +14,19 @@ LBS has shortcuts to quickly access some of it’s different tools, this section
 Please consider that the shortcuts are context-dependent, the context in which each shortcut works is shown by it’s category.
 
 ---
-### General 
+**General**
+test                        <kbd>Alt</kbd>
+
+---
+**While editing an exterior layer**
 
 
 ---
-### While editing an **exterior** layer
+**While editing an interior layer**
 
 
 ---
-### While editing an **interior** layer
-
-
----
-### While editing an **quest** layer
+**While editing an **quest** layer**
 
 
 ---
