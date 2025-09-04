@@ -1,8 +1,10 @@
 +++
-title = "LBS Shortcuts"
-draft = true
-weight = 35
+date = '2025-09-04T17:05:58-04:00'
+draft = false
+weight = 50
+title = 'Shortcuts List'
 tags = [ "Documentation", "LBS", "Tutorial" ]
+author = ["Ignacio Reyes"]
 +++
 
 LBS has shortcuts to quickly access some of it’s different tools, this section presents a list of the shortcuts offered by Level Builder Sidekick.
@@ -10,3 +12,21 @@ LBS has shortcuts to quickly access some of it’s different tools, this section
 ## List of LBS shortcuts
 
 Please consider that the shortcuts are context-dependent, the context in which each shortcut works is shown by it’s category.
+
+---
+### General 
+
+
+---
+### While editing an **exterior** layer
+
+
+---
+### While editing an **interior** layer
+
+
+---
+### While editing an **quest** layer
+
+
+---
