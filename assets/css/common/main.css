@@ -119,5 +119,6 @@ kbd {
 }
 
 table {
-     border-collapse: collapse;
+    border: none;
+    border-collapse: collapse;
 }
