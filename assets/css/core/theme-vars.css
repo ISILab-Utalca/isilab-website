@@ -17,6 +17,8 @@
     --code-bg: rgb(245, 245, 245);
     --border: rgb(142, 142, 142);
     --hover: rgb(81, 81, 82);
+    --kbd-bg: rgb(180, 180, 180);
+    --border-color: rgb(142, 142, 142);
 }
 
 .dark {
@@ -30,6 +32,9 @@
     --code-block-bg: rgb(25, 25, 26);
     --code-bg: rgb(55, 56, 56);
     --border: rgb(225, 225, 225);
+    --border-color: rgb(225, 225, 225);
+
     --blockquote-bg: rgb(48, 48, 48);
+    --kbd-bg: rgb(64, 64, 64);
 }
 

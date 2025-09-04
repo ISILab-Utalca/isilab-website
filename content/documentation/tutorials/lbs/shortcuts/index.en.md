@@ -16,7 +16,7 @@ Please consider that the shortcuts are context-dependent, the context in which e
 ---
 **General**
 
-* Mover cámara al orígen                        {{< kbd key >}}
+* Mover cámara al orígen                        {{< kbd Alt >}}
 
 * test                        <kbd>Alt</kbd>
 
