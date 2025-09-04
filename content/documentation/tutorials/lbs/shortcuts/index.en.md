@@ -15,7 +15,10 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 ---
 **General**
-test                        <kbd>Alt</kbd>
+
+* Mover cámara al orígen                        <kbd>O</kbd>
+
+* test                        <kbd>Alt</kbd>
 
 ---
 **While editing an exterior layer**
