@@ -16,12 +16,17 @@ Please consider that the shortcuts are context-dependent, the context in which e
 ---
 **General**
 
-* Mover cámara al orígen                        {{< kbd Alt >}}
+* Mover cámara al orígen {{< kbd key >}}
 
 * test                        <kbd>Alt</kbd>
 
 ---
 **While editing an exterior layer**
+
+| |  |
+|------  | -------| 
+| jdhsakjdhskja| dkjhskjdhakjds|
+jsahdkjhsakjd   |jksahdkjhsakjdhkj|
 
 
 ---
