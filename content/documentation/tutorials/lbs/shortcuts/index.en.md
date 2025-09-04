@@ -29,7 +29,7 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 
 ---
-**While editing an **quest** layer**
+**While editing an quest layer**
 
 
 ---
