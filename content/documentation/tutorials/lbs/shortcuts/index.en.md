@@ -14,6 +14,7 @@ LBS has shortcuts to quickly access some of it’s different tools, this section
 Please consider that the shortcuts are context-dependent, the context in which each shortcut works is shown by it’s category.
 
 ---
+
 **General**
 
 * Mover cámara al orígen {{< kbd key >}}
@@ -21,6 +22,7 @@ Please consider that the shortcuts are context-dependent, the context in which e
 * test                        <kbd>Alt</kbd>
 
 ---
+
 **While editing an exterior layer**
 
 | | |
