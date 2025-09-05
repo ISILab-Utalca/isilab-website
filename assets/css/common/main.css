@@ -118,6 +118,11 @@ kbd {
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
+table, tr, td {
+    border: none;
+}
+
+/*
 table {
     border-collapse: collapse;
 }
@@ -125,3 +130,4 @@ td, th {
   border: 1px solid #333;
   padding: 0 .2em;
 }
+*/
