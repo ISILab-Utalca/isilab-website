@@ -24,7 +24,6 @@ Please consider that the shortcuts are context-dependent, the context in which e
 ---
 
 **While editing an exterior layer**
-
 |&nbsp;|&nbsp;|
 |-|-| 
 |||
@@ -32,10 +31,14 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 ---
 **While editing an interior layer**
-
+|&nbsp;|&nbsp;|
+|-|-| 
+|||
 
 ---
 **While editing an quest layer**
-
+|&nbsp;|&nbsp;|
+|-|-| 
+|||
 
 ---
