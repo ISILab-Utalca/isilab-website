@@ -23,10 +23,12 @@ Please consider that the shortcuts are context-dependent, the context in which e
 ---
 **While editing an exterior layer**
 
-| |  |
-|------  | -------| 
-| jdhsakjdhskja| dkjhskjdhakjds|
-jsahdkjhsakjd   |jksahdkjhsakjdhkj|
+| | |
+|---|---| 
+|.|.|
+|.|.|
+|.|.|
+|.|.|
 
 
 ---
