@@ -17,20 +17,17 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 **General**
 
-* Mover cámara al orígen {{< kbd key >}}
-
-* test                        <kbd>Alt</kbd>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
+|-|-| 
+|Move camera to origin|<kbd>O</kbd>|
 
 ---
 
 **While editing an exterior layer**
 
-| | |
-|---|---| 
-|.|.|
-|.|.|
-|.|.|
-|.|.|
+|&nbsp;|&nbsp;|
+|-|-| 
+|||
 
 
 ---
