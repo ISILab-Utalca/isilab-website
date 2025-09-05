@@ -119,7 +119,7 @@ kbd {
 }
 
 table, tr, td {
-    border: none;
+    border: hidden;
 }
 
 /*
