@@ -122,6 +122,12 @@ table, tr, td {
     border: hidden;
 }
 
+.horizontalImages {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
 /*
 table {
     border-collapse: collapse;

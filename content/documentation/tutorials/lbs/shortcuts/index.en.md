@@ -17,10 +17,12 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 **General**
 
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;|
-|-|-| 
-|Drag camera    |   <img src="lbs_mouse_icons/Property 1=Midle Click.png" width="15"> or {{< kbd Alt >}} + <img src="lbs_mouse_icons/Property 1=RightClick.png" width="15"> 
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| |
+| - | - |
+| Drag camera | {{< small_icon path="Property 1=Midle Click.png" width=18 >}} |
+| | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
 |Move camera to origin  |   {{< kbd O >}} |
+|   |   |
 | | |
 ---
 
@@ -28,7 +30,6 @@ Please consider that the shortcuts are context-dependent, the context in which e
 |&nbsp;|&nbsp;|
 |-|-| 
 |||
-
 
 ---
 **While editing an interior layer**
