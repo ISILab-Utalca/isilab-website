@@ -17,12 +17,13 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 **General**
 
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| |
+| {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
 | - | - |
 | Drag camera | {{< small_icon path="Property 1=Midle Click.png" width=18 >}} |
-| | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
-|Move camera to origin  |   {{< kbd O >}} |
-|   |   |
+|             | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
+|||
+|Move camera to origin |   {{< kbd O >}} |
+| | |
 | | |
 ---
 

@@ -118,22 +118,13 @@ kbd {
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
+.imgIcon{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px !important;
+}
+
 table, tr, td {
     border: hidden;
 }
 
-.horizontalImages {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-/*
-table {
-    border-collapse: collapse;
-}
-td, th {
-  border: 1px solid #333;
-  padding: 0 .2em;
-}
-*/
