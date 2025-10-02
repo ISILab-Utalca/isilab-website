@@ -29,8 +29,8 @@ System Requirements: This extension is developed to be compatible with **Unity 6
 
 ![How to Install 01](install_info_01.png "Import LBS package")
 
-1. **A:** To import LBS, go to the toolbar: **Assets > Import Package > Custom Package**.
-   **B:** In the file browser select the downloaded package  `LevelBuildingSidekick-2025-06-3--16-51-57.unitypackage` file and click **Open.**
+1. **A:** To import LBS, go to the toolbar: **Assets > Import Package > Custom Package**.  
+   **B:** In the file browser select the downloaded package `LevelBuildingSidekick-2025-06-3--16-51-57.unitypackage` file and click **Open.**
 2. The indicated packages must be imported for LBS to function properly. Clicking on **Install/Upgrade** will automatically install the required packages.
 
 ![How to Install 02](install_info_02.png "Include LBS package's assets")
