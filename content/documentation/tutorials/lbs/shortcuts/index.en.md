@@ -25,21 +25,27 @@ Please consider that the shortcuts are context-dependent, the context in which e
 |Move camera to origin |   {{< kbd O >}} |
 | | |
 | | |
+
 ---
 
-**While editing an exterior layer**
+**While editing an Interior layer**
+
+| {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
+| - | - |
+| Paint w/ selected zone | {{< small_icon path="Property 1=LeftClick.png" width=18 >}} (While using paint tool) |
+| Erase painted zone | {{< small_icon path="Property 1=RightClick.png" width=18 >}} (While using paint tool) |
+| Create new zone | {{< kbd Ctrl>}} + {{< small_icon path="Property 1=LeftClick.png" width=18 >}} (While using paint tool) | 
+|||
+
+---
+
+**While editing an Exterior layer**
 |&nbsp;|&nbsp;|
 |-|-| 
 |||
 
 ---
-**While editing an interior layer**
-|&nbsp;|&nbsp;|
-|-|-| 
-|||
-
----
-**While editing a quest layer**
+**While editing a Quest layer**
 |&nbsp;|&nbsp;|
 |-|-| 
 |||
