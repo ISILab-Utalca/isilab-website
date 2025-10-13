@@ -15,6 +15,14 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 ---
 
+| *Project* |  |
+| - | - |
+| {{< emptySpacing 5>}}***Bundles*** | |
+| {{< emptySpacing 10>}}Create single bundle of selected items |   {{< kbd Alt >}} + {{< kbd B >}} |
+| {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
+
+---
+
 | *General* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Camera*** | |
@@ -22,7 +30,6 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | {{< emptySpacing 10>}}Drag camera | {{< small_icon path="Property 1=Midle Click.png" width=18 >}} |
 | {{< emptySpacing 10>}}            | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
 | {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
-
 
 ---
 
