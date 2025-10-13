@@ -15,39 +15,35 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 ---
 
-**General**
-
-| {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
+| *General* |  |
 | - | - |
-| Drag camera | {{< small_icon path="Property 1=Midle Click.png" width=18 >}} |
-|             | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
-|||
-|Move camera to origin |   {{< kbd O >}} |
-| | |
-| | |
+| {{< emptySpacing 5>}}***Camera*** | |
+| {{< emptySpacing 10>}}Move camera to origin |   {{< kbd O >}} |
+| {{< emptySpacing 10>}}Drag camera | {{< small_icon path="Property 1=Midle Click.png" width=18 >}} |
+| {{< emptySpacing 10>}}            | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
+| {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
+
 
 ---
 
-**While editing an Interior layer**
-
-| {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
+| *While editing an Interior layer* |  |
 | - | - |
-| Paint w/ selected zone | {{< small_icon path="Property 1=LeftClick.png" width=18 >}} (While using paint tool) |
-| Erase painted zone | {{< small_icon path="Property 1=RightClick.png" width=18 >}} (While using paint tool) |
-| Create new zone | {{< kbd Ctrl>}} + {{< small_icon path="Property 1=LeftClick.png" width=18 >}} (While using paint tool) | 
-|||
+| {{< emptySpacing 5>}}***While using paint tool*** |  |
+| {{< emptySpacing 10>}}Paint w/ selected zone | {{< small_icon path="Property 1=LeftClick.png" width=18 >}} |
+| {{< emptySpacing 10>}}Erase painted zone | {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
+| {{< emptySpacing 10>}}Create new zone | {{< kbd Ctrl>}} + {{< small_icon path="Property 1=LeftClick.png" width=18 >}} |
+| {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
 
-**While editing an Exterior layer**
-|&nbsp;|&nbsp;|
+| *While editing an Exterior layer* | |
 |-|-| 
-|||
+| {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
 
 ---
-**While editing a Quest layer**
-|&nbsp;|&nbsp;|
+
+| *While editing a Quest layer* | |
 |-|-| 
-|||
+| {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
 
 ---
