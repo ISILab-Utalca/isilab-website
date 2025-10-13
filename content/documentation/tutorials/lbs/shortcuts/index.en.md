@@ -18,12 +18,12 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | *Project* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Bundles*** | |
-| {{< emptySpacing 10>}}Create single bundle of selected items |   {{< kbd Alt >}} + {{< kbd B >}} |
+| {{< emptySpacing 10>}}Create single bundle of selected asset(s) |   {{< kbd Alt >}} + {{< kbd B >}} |
 | {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
 
-| *General* |  |
+| *LBS Window* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Camera*** | |
 | {{< emptySpacing 10>}}Move camera to origin |   {{< kbd O >}} |
