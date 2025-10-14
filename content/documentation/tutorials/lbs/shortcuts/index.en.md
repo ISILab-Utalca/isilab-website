@@ -18,8 +18,8 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | *Project* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Bundles*** | |
-| {{< emptySpacing 10>}}Create Bundle of each selected asset |   {{< kbd Alt >}} + {{< kbd B >}} |
-| {{< emptySpacing 10>}}Create Bundle of selected assets |   {{< kbd Alt >}} + {{< kbd Shift >}} + {{< kbd B >}} |
+| {{< emptySpacing 10>}}Create Bundles of each selected asset |   {{< kbd Alt >}} + {{< kbd B >}} |
+| {{< emptySpacing 10>}}Create single Bundle of selected assets |   {{< kbd Alt >}} + {{< kbd Shift >}} + {{< kbd B >}} |
 | {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
