@@ -18,7 +18,8 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | *Project* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Bundles*** | |
-| {{< emptySpacing 10>}}Create single bundle of selected asset(s) |   {{< kbd Alt >}} + {{< kbd B >}} |
+| {{< emptySpacing 10>}}Create Bundle of each selected asset |   {{< kbd Alt >}} + {{< kbd B >}} |
+| {{< emptySpacing 10>}}Create Bundle of selected assets |   {{< kbd Alt >}} + {{< kbd Shift >}} + {{< kbd B >}} |
 | {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
@@ -26,9 +27,11 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | *LBS Window* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Camera*** | |
-| {{< emptySpacing 10>}}Move camera to origin |   {{< kbd O >}} |
 | {{< emptySpacing 10>}}Drag camera | {{< small_icon path="Property 1=Midle Click.png" width=18 >}} |
-| {{< emptySpacing 10>}}            | {{< kbd Alt >}} + {{< small_icon path="Property 1=RightClick.png" width=18 >}} |
+| {{< emptySpacing 10>}}Move camera to origin |   {{< kbd O >}} |
+| {{< emptySpacing 10>}}Adjust camera to viewport |   {{< kbd A >}} |
+| {{< emptySpacing 5>}}***LBS File*** | |
+| {{< emptySpacing 10>}}Save LBS File |   {{< kbd Ctrl >}} + {{< kbd S >}} |
 | {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
