@@ -15,15 +15,6 @@ Please consider that the shortcuts are context-dependent, the context in which e
 
 ---
 
-| *Project* |  |
-| - | - |
-| {{< emptySpacing 5>}}***Bundles*** | |
-| {{< emptySpacing 10>}}Create Bundles of each selected asset |   {{< kbd Alt >}} + {{< kbd B >}} |
-| {{< emptySpacing 10>}}Create single Bundle of selected assets |   {{< kbd Alt >}} + {{< kbd Shift >}} + {{< kbd B >}} |
-| {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
-
----
-
 | *LBS Window* |  |
 | - | - |
 | {{< emptySpacing 5>}}***Camera*** | |
@@ -55,5 +46,14 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | *While editing a Quest layer* | |
 |-|-| 
 | {{< emptySpacing 80>}} | {{< emptySpacing 50>}} |
+
+---
+
+| *Project* |  |
+| - | - |
+| {{< emptySpacing 5>}}***Bundles*** | |
+| {{< emptySpacing 10>}}Create Bundles of each selected asset |   {{< kbd Alt >}} + {{< kbd B >}} |
+| {{< emptySpacing 10>}}Create single Bundle of selected assets |   {{< kbd Alt >}} + {{< kbd Shift >}} + {{< kbd B >}} |
+| {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
