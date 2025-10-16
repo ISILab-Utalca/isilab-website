@@ -23,6 +23,8 @@ Please consider that the shortcuts are context-dependent, the context in which e
 | {{< emptySpacing 10>}}Adjust camera to viewport |   {{< kbd A >}} |
 | {{< emptySpacing 5>}}***LBS File*** | |
 | {{< emptySpacing 10>}}Save LBS File |   {{< kbd Ctrl >}} + {{< kbd S >}} |
+| {{< emptySpacing 10>}}Open LBS File |   {{< kbd Ctrl >}} + {{< kbd O >}} |
+| {{< emptySpacing 10>}}New LBS File |   {{< kbd Ctrl >}} + {{< kbd N >}} |
 | {{< emptySpacing 90>}} | {{< emptySpacing 50>}} |
 
 ---
